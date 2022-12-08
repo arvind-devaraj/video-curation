@@ -1,0 +1,65 @@
+Variance
+Bias
+Overfitting
+Singular Value Decomposition
+Principal Component Analysis
+Expectation Maximization
+Hierarchical Clustering
+K Means Clustering
+Adaboost
+Random Forest
+Decision Trees
+Polynomial Regression
+Linear Regression
+Dimensionality Reduction
+Association Rules
+Clustering
+Business Intelligence
+Statistics
+Data Mining
+Artificial Intelligence
+Underfitting
+Overfitting
+Cross Validation
+Hyperparameters
+Regularization
+Loss Functions
+Feature Engineering
+K Nearest Neighbours
+Support Vector Machines
+Naive Bayes
+Logistic Regression
+Tree Based Methods
+Regression Methods
+Reinforcement Learning
+Unsupervised Learning
+Supervised Learning
+Entropy
+Information Gain
+Gini coefficient
+Parametric methods
+Non-parametric methods
+Hyperparameters
+Neural Networks
+Deep Learning
+Perceptron
+Activation Function
+Regularization
+Dropout
+Loss function
+Gradient Descent
+Epochs
+Backpropagation
+Optimizer
+Learning Rate
+Batch size	
+Convolutional Neural Network
+Recurrent Neural Network
+LSTM
+Confusion Matrix
+Recall
+Precision
+Linear Discriminant Analysis
+Training and Validation
+Validation and Test Sets
+Cross Validation

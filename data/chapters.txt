@@ -1,0 +1,10 @@
+Introduction
+Cluster Analysis
+Importing Data
+Clustering
+K Means
+Scatter Plot
+Three Clusters
+Encoding
+Performing Clustering
+The Elbow Method
