@@ -1,0 +1,1545 @@
+{
+    "Normal Distribution": [
+        "zUnC1CV4FAc",
+        "XepXtl9YKwc",
+        "tTAieUcNHdY",
+        "OgO1gpXSUzU",
+        "sbbYntt5CJk",
+        "8vOsOST-FPA"
+    ],
+    "RSquared": [
+        "lZtyxpHsBlg"
+    ],
+    "Binomial Distribution": [
+        "8idr1WZ1A7Q",
+        "sbbYntt5CJk"
+    ],
+    "Decision Trees": [
+        "fqK4mchNlnY",
+        "Rjgba38dgDY",
+        "mld0TnA2jEs",
+        "841I7-imlVo",
+        "OByOgGXq76A",
+        "Joxm04J1Cqg",
+        "3vZo0ApLz0A",
+        "fsE9gzbf8Z4",
+        "zUqa6KcwRhs",
+        "73t6nJT2xbw",
+        "X3Wbfb4M33w",
+        "ZJ9FXBxYPsA",
+        "wr9gUr-eWdA",
+        "_3eaVy8c-xk",
+        "JMUxmLyrhSk",
+        "4Q0kUCvhmAk",
+        "M9Itm95JzL0",
+        "OPkgtQwckrg",
+        "yN7ypxC7838",
+        "mQaAPoRGOcs"
+    ],
+    "Batch size\t": [
+        "kytMd3_x9RU"
+    ],
+    "Regularization": [
+        "kytMd3_x9RU",
+        "vyOgWhwUmec",
+        "iMIWee_PXl8",
+        "65UJPA10dW8",
+        "5tvmMX8r_OM",
+        "kIKBhIAit5I",
+        "2e4fgSgn64Q",
+        "eyovmAtoUx0",
+        "YaKMeAlHgqQ",
+        "iEt2UbqAhls",
+        "NRCZJUviZN0"
+    ],
+    "Learning Rate": [
+        "kytMd3_x9RU",
+        "zS7C5Xhioc4",
+        "yc6VvRVzSJI",
+        "5tvmMX8r_OM",
+        "8Hg2UtQg6G4",
+        "HARGzJ8qFGQ",
+        "Lpr__X8zuE8"
+    ],
+    "Gradient Descent": [
+        "kytMd3_x9RU",
+        "sDv4f4s2SB8",
+        "TudQZtgpoHk",
+        "5tvmMX8r_OM",
+        "pXGBHV3y8rs",
+        "g7Ej9yQ_Eis",
+        "MDL384gsAk0",
+        "0GoPTJE7Vms",
+        "pqNCD_5r0IU",
+        "AJzvuvVrEVM",
+        "eyovmAtoUx0",
+        "hvIptUuUCdU",
+        "FTzZff0uq9U",
+        "HARGzJ8qFGQ",
+        "65DJ0XRZLiQ",
+        "Lpr__X8zuE8"
+    ],
+    "Logistic Regression": [
+        "jmLid2x9eKg",
+        "0E0DrKvXi-Y",
+        "tTAieUcNHdY",
+        "4zuIPwnQVdM",
+        "oVeMquBjNYs",
+        "IUylp47hNA0",
+        "u2zsY-2uZiE",
+        "pqNCD_5r0IU",
+        "fJ53tIDbvTM",
+        "RlQuVL6-qe8",
+        "w0MqLCHhR_c",
+        "zUqa6KcwRhs",
+        "JMUxmLyrhSk",
+        "9wXc0stU-RA",
+        "0gf5iLTbiQM",
+        "eg8DJYwdMyg",
+        "JJFT5kLBUjg",
+        "I7NrVwm3apg"
+    ],
+    "Supervised Learning": [
+        "jmLid2x9eKg",
+        "7_YzyMYC2zM",
+        "wpQiEHYkBys",
+        "Zxf24EDKVq4",
+        "dRJGyhS6gA0",
+        "7o9TMQAHgkQ",
+        "dgt6IfEXgDk",
+        "tTAieUcNHdY",
+        "A6kO2HD-LHA",
+        "kIKBhIAit5I",
+        "JfeB_n4zsRM",
+        "3vZo0ApLz0A",
+        "yTaxI1k2zgI",
+        "AJzvuvVrEVM",
+        "0wUF_Ov8b0A",
+        "n1ViNeWhC24",
+        "AggqBRdz6CQ",
+        "JMUxmLyrhSk",
+        "9wXc0stU-RA",
+        "ix6Wj5tntp8",
+        "Ra_yTQnhf_8",
+        "t4K6lney7Zw",
+        "yN7ypxC7838",
+        "eg8DJYwdMyg",
+        "wryiEKQ0XhQ",
+        "i04Pfrb71vk"
+    ],
+    "Linear Discriminant Analysis": [
+        "jmLid2x9eKg"
+    ],
+    "K Nearest Neighbours": [
+        "jmLid2x9eKg",
+        "7_YzyMYC2zM",
+        "X4Ic1ui3jD0",
+        "JMUxmLyrhSk",
+        "G5l6xi_D64Y",
+        "iEt2UbqAhls",
+        "I7NrVwm3apg"
+    ],
+    "Overfitting": [
+        "7_YzyMYC2zM",
+        "tTAieUcNHdY",
+        "65UJPA10dW8",
+        "AhE8RhPGH1A",
+        "elTJQ8NGhE0",
+        "rW0B8o7JtFk",
+        "pqNCD_5r0IU",
+        "W-0-u6XVbE4"
+    ],
+    "Cross Validation": [
+        "7_YzyMYC2zM",
+        "Lg49whvL3S8",
+        "az60jS7MQhU",
+        "tTAieUcNHdY",
+        "wjILv3-UGM8",
+        "65UJPA10dW8",
+        "0wUF_Ov8b0A",
+        "g_GjvqgvJ0M",
+        "WtWxOhhZWX0",
+        "zFeP678054U",
+        "iEt2UbqAhls",
+        "Gol_qOgRqfA"
+    ],
+    "Training and Validation": [
+        "7_YzyMYC2zM",
+        "4TcUf9OHGR8",
+        "xI0HHN5XKDo",
+        "wDxTWp3KMMs",
+        "ms-Ooh9mjiE",
+        "4EOCQJgqAOY",
+        "4QIWJVVWJdQ",
+        "OB1reY6IX-o",
+        "kIKBhIAit5I",
+        "tVsVmy6w7FE",
+        "BlndymsWGX0",
+        "bN4UuCBdpZc",
+        "JfeB_n4zsRM",
+        "RlQuVL6-qe8",
+        "iUnO4MLAGDU",
+        "Zdh3p4EKLeQ",
+        "zFeP678054U",
+        "9wXc0stU-RA",
+        "M9Itm95JzL0",
+        "QvxJL9lfhPw",
+        "mQaAPoRGOcs"
+    ],
+    "Clustering": [
+        "7_YzyMYC2zM",
+        "Zxf24EDKVq4",
+        "q71Niz856KE",
+        "ms-Ooh9mjiE",
+        "7o9TMQAHgkQ",
+        "dgt6IfEXgDk",
+        "tTAieUcNHdY",
+        "ZVZHknMJ4N0",
+        "yc6VvRVzSJI",
+        "X4Ic1ui3jD0",
+        "2RTD5569m38",
+        "9wXc0stU-RA",
+        "YaKMeAlHgqQ",
+        "4Q0kUCvhmAk",
+        "Ra_yTQnhf_8"
+    ],
+    "Confusion Matrix": [
+        "EUiIydNBIbE",
+        "wpQiEHYkBys",
+        "4DI68P4hicQ",
+        "f4voKCjhMhQ",
+        "OByOgGXq76A",
+        "rowWM-MijXU",
+        "XcLO4f1i4Yo",
+        "85dtiMz9tSo",
+        "9wXc0stU-RA",
+        "M9Itm95JzL0"
+    ],
+    "Precision": [
+        "EUiIydNBIbE",
+        "wpQiEHYkBys",
+        "4DI68P4hicQ",
+        "gm4v_SGQx3I",
+        "8iGzBMboA0I",
+        "l4a3e__QzoY",
+        "7t-x7poo9uI",
+        "HARGzJ8qFGQ"
+    ],
+    "Loss Functions": [
+        "wpQiEHYkBys",
+        "sDv4f4s2SB8",
+        "zrT2qETJilw",
+        "5tvmMX8r_OM",
+        "LBemXHm_Ops",
+        "iEt2UbqAhls",
+        "_XPkAxm0Yx0"
+    ],
+    "Singular Value Decomposition": [
+        "EokL7E6o1AE",
+        "DbzN_gMh3Mw",
+        "4DI68P4hicQ",
+        "H1OP0XOREh4",
+        "uZeDTwWcnuY",
+        "NUn6WeFM5cM",
+        "FTzZff0uq9U",
+        "5u35GY24A0Q"
+    ],
+    "Perceptron": [
+        "_M7P9VhmJXE",
+        "JpTYbmpoHT0",
+        "5tvmMX8r_OM",
+        "IUylp47hNA0",
+        "DooxDIRAkPA",
+        "JMUxmLyrhSk",
+        "Lpr__X8zuE8"
+    ],
+    "Artificial Intelligence": [
+        "_M7P9VhmJXE",
+        "N6BghzuFLIg",
+        "Zxf24EDKVq4",
+        "SnmXndIus9c",
+        "JpTYbmpoHT0",
+        "_9dsx4tyzJ8",
+        "0GoPTJE7Vms",
+        "a0sqE7y53W8",
+        "2O3vCltvicM",
+        "ovPheIbY7U8",
+        "37Yt41ouaNM",
+        "DooxDIRAkPA",
+        "zFeP678054U",
+        "dafuAz_CV7Q",
+        "JMUxmLyrhSk",
+        "xlqHQKJ7X1k",
+        "1tUS4Ynhpx0",
+        "t4K6lney7Zw",
+        "Axu4tJl8gbM",
+        "7CH8Mb6OH3k"
+    ],
+    "Deep Learning": [
+        "_M7P9VhmJXE",
+        "zS7C5Xhioc4",
+        "YBBnzN-iZZg",
+        "7o9TMQAHgkQ",
+        "dgt6IfEXgDk",
+        "tTAieUcNHdY",
+        "A6kO2HD-LHA",
+        "JpTYbmpoHT0",
+        "AhE8RhPGH1A",
+        "5tvmMX8r_OM",
+        "cNDA60YLVdQ",
+        "pqNCD_5r0IU",
+        "fyAZszlPphs",
+        "8iGzBMboA0I",
+        "wM6CWzv4VkQ",
+        "DooxDIRAkPA",
+        "eyovmAtoUx0",
+        "hvIptUuUCdU",
+        "AggqBRdz6CQ",
+        "nCPf8zDJ0d0",
+        "dafuAz_CV7Q",
+        "JMUxmLyrhSk",
+        "iEt2UbqAhls",
+        "_QUEXsHfsA0",
+        "TTEEkMRZAC8",
+        "7t-x7poo9uI",
+        "NRCZJUviZN0",
+        "1k37OcjH7BM",
+        "65DJ0XRZLiQ",
+        "t4K6lney7Zw",
+        "7CH8Mb6OH3k"
+    ],
+    "Support Vector Machines": [
+        "YB7XXDXIusg",
+        "NOKOJWQ2_iE",
+        "pqNCD_5r0IU",
+        "JMUxmLyrhSk",
+        "yN7ypxC7838"
+    ],
+    "Hyperparameters": [
+        "xoP4h09grBM",
+        "XbHeCL_8UhA",
+        "f4voKCjhMhQ",
+        "4zuIPwnQVdM",
+        "AhE8RhPGH1A",
+        "0wUF_Ov8b0A",
+        "g_GjvqgvJ0M",
+        "WtWxOhhZWX0",
+        "nKW8Ndu7Mjw"
+    ],
+    "Stochastic gradient descent": [
+        "sDv4f4s2SB8",
+        "tVQZvJwi-ec",
+        "0oyCUWLL_fU",
+        "_QUEXsHfsA0"
+    ],
+    "Random Forest": [
+        "4DI68P4hicQ",
+        "Lg49whvL3S8",
+        "0E0DrKvXi-Y",
+        "mld0TnA2jEs",
+        "841I7-imlVo",
+        "r5C3TUIw6Zk",
+        "wNkB2WDllyI",
+        "tQi7vanY_RU",
+        "4EOCQJgqAOY",
+        "w-eWTxbRQcU",
+        "OByOgGXq76A",
+        "nCPf8zDJ0d0",
+        "X3Wbfb4M33w",
+        "WtWxOhhZWX0",
+        "JMUxmLyrhSk",
+        "yN7ypxC7838",
+        "TuIgtitqJho",
+        "I7NrVwm3apg"
+    ],
+    "Business Intelligence": [
+        "j6VSAsKAj98",
+        "1L3JlWsSVrg",
+        "Zxf24EDKVq4",
+        "kPBz2c3zz-4",
+        "tTAieUcNHdY",
+        "jOBo03OOVQM",
+        "pli1K75PSa8",
+        "9oYosh-AoX0",
+        "ovPheIbY7U8",
+        "Zdh3p4EKLeQ",
+        "jj6-0cvcNEA",
+        "3u7MQz1EyPY",
+        "7Jl-RwkzqQ4",
+        "07jQR_3hmbY",
+        "t4K6lney7Zw",
+        "fUpChfNN5Uo",
+        "_tPhvt6f_qE",
+        "5u35GY24A0Q"
+    ],
+    "Optimizer": [
+        "j6VSAsKAj98",
+        "zrT2qETJilw",
+        "898mey_dKSs",
+        "JpTYbmpoHT0",
+        "TudQZtgpoHk",
+        "g7Ej9yQ_Eis",
+        "a0sqE7y53W8",
+        "c5ish_bQetE",
+        "knTc-NQSjKA",
+        "9oYosh-AoX0",
+        "AVPf8TjHShQ",
+        "YB64VoGQsK8",
+        "7665INW4I5g",
+        "vtuH4VRq1AU",
+        "QcZJBkL7rhk",
+        "ee-HYD6kKqM"
+    ],
+    "Neural Networks": [
+        "wNBaNhvL4pg",
+        "1qHR9G8ojQg",
+        "Zxf24EDKVq4",
+        "XNKeayZW4dY",
+        "wDxTWp3KMMs",
+        "JpTYbmpoHT0",
+        "AhE8RhPGH1A",
+        "5tvmMX8r_OM",
+        "_9dsx4tyzJ8",
+        "bN4UuCBdpZc",
+        "JfeB_n4zsRM",
+        "pqNCD_5r0IU",
+        "fyAZszlPphs",
+        "7665INW4I5g",
+        "eyovmAtoUx0",
+        "JMUxmLyrhSk",
+        "_QUEXsHfsA0",
+        "bfmFfD2RIcg",
+        "j-35y1M9rRU",
+        "RzgFtJQnNtc",
+        "8zwILUzux6o",
+        "t4K6lney7Zw",
+        "yN7ypxC7838"
+    ],
+    "Inverse Document Frequency": [
+        "YX4xRIQ84Z0"
+    ],
+    "TFIDF": [
+        "YX4xRIQ84Z0",
+        "_hAVVULrZ0Q",
+        "M9Itm95JzL0"
+    ],
+    "Data Mining": [
+        "7WfoYl-EPtI",
+        "7o9TMQAHgkQ",
+        "kPBz2c3zz-4",
+        "tTAieUcNHdY",
+        "Wj5ole72Q9g",
+        "JpTYbmpoHT0",
+        "2e4fgSgn64Q",
+        "_hAVVULrZ0Q",
+        "g_GjvqgvJ0M",
+        "JMUxmLyrhSk",
+        "nKW8Ndu7Mjw",
+        "_tPhvt6f_qE"
+    ],
+    "Text Extraction": [
+        "7WfoYl-EPtI",
+        "wL49k_MVgZE",
+        "YBBnzN-iZZg",
+        "1L3JlWsSVrg",
+        "BI2f6Mefhjo",
+        "jBslaEzFJCE",
+        "iEt2UbqAhls"
+    ],
+    "Latent Semantic Analysis": [
+        "wL49k_MVgZE",
+        "1L3JlWsSVrg",
+        "JMUxmLyrhSk"
+    ],
+    "Tokenization": [
+        "wL49k_MVgZE",
+        "_hAVVULrZ0Q",
+        "zFeP678054U",
+        "_RPHiqF2bSs"
+    ],
+    "Word Embeddings": [
+        "wL49k_MVgZE",
+        "vyOgWhwUmec",
+        "YBBnzN-iZZg",
+        "1L3JlWsSVrg",
+        "1qHR9G8ojQg",
+        "4TcUf9OHGR8",
+        "4I3gS1cmqe4",
+        "P1jUUdtckiY",
+        "s5zuplW8ua8",
+        "_hAVVULrZ0Q",
+        "udXjlvCFusc",
+        "8Hg2UtQg6G4"
+    ],
+    "Bag of words": [
+        "wL49k_MVgZE",
+        "vyOgWhwUmec",
+        "_hAVVULrZ0Q",
+        "zHcQPKP6NpM",
+        "zFeP678054U",
+        "M9Itm95JzL0"
+    ],
+    "Recurrent Neural Network": [
+        "YBBnzN-iZZg",
+        "1qHR9G8ojQg",
+        "TQQlZhbC5ps",
+        "nCPf8zDJ0d0",
+        "JMUxmLyrhSk"
+    ],
+    "LSTM": [
+        "YBBnzN-iZZg",
+        "g7Ej9yQ_Eis",
+        "7t-x7poo9uI"
+    ],
+    "Grid Search": [
+        "Lg49whvL3S8",
+        "f4voKCjhMhQ",
+        "0wUF_Ov8b0A",
+        "5nYqK-HaoKY",
+        "Gol_qOgRqfA",
+        "M9Itm95JzL0"
+    ],
+    "Feature Engineering": [
+        "1qHR9G8ojQg",
+        "YYjvkSJoui4",
+        "JpTYbmpoHT0",
+        "N1BjPk1smdg",
+        "URdnFlZnlaE",
+        "IGQf3hxlWKI",
+        "0wUF_Ov8b0A",
+        "iUnO4MLAGDU",
+        "VAWjhAakw4s",
+        "wcFdmQSX6hM",
+        "g_GjvqgvJ0M",
+        "7665INW4I5g",
+        "zUqa6KcwRhs",
+        "78RUW9kuDe4",
+        "n1ViNeWhC24",
+        "jBslaEzFJCE",
+        "Ah9XWzsB2mo",
+        "YKjazI85nPQ",
+        "7Jl-RwkzqQ4"
+    ],
+    "Convolutional Neural Network": [
+        "1qHR9G8ojQg",
+        "8iGzBMboA0I",
+        "nCPf8zDJ0d0",
+        "JMUxmLyrhSk"
+    ],
+    "Statistics": [
+        "N6BghzuFLIg",
+        "XbHeCL_8UhA",
+        "_tEek2jPn-4",
+        "Zf1MLaWIOfQ",
+        "CD58mco2XqA",
+        "_T8LGqJtuGc",
+        "pxckixOlguA",
+        "kIKBhIAit5I",
+        "6Jz67_xNk7U",
+        "cNDA60YLVdQ",
+        "u2zsY-2uZiE",
+        "B42n3Pc-N2A",
+        "bN4UuCBdpZc",
+        "XcLO4f1i4Yo",
+        "sbbYntt5CJk",
+        "AJzvuvVrEVM",
+        "VPZD_aij8H0",
+        "Rsc5znwR5FA",
+        "AggqBRdz6CQ",
+        "jBslaEzFJCE",
+        "8vOsOST-FPA",
+        "zHcQPKP6NpM",
+        "9wXc0stU-RA",
+        "Axu4tJl8gbM",
+        "AxrKrlWmZ_A",
+        "_tPhvt6f_qE",
+        "_eAl7vuVu3U"
+    ],
+    "Naive Bayes": [
+        "1vGn4xWAwXI",
+        "65UJPA10dW8",
+        "F1eOEAvKq3g",
+        "_hAVVULrZ0Q",
+        "zUqa6KcwRhs",
+        "JMUxmLyrhSk"
+    ],
+    "Regression Loss": [
+        "zrT2qETJilw",
+        "TTEEkMRZAC8"
+    ],
+    "Linear Regression": [
+        "zrT2qETJilw",
+        "0E0DrKvXi-Y",
+        "tTAieUcNHdY",
+        "0GoPTJE7Vms",
+        "u2zsY-2uZiE",
+        "OgO1gpXSUzU",
+        "rW0B8o7JtFk",
+        "IlTGoELs-Zg",
+        "pqNCD_5r0IU",
+        "3ZWuPVWq7p4",
+        "0sKPkJME2Jw",
+        "X0HXnHKPXSo",
+        "zFeP678054U",
+        "JMUxmLyrhSk",
+        "0gf5iLTbiQM",
+        "yN7ypxC7838",
+        "JJFT5kLBUjg",
+        "DG7YTlGnCEo",
+        "TuIgtitqJho",
+        "I7NrVwm3apg"
+    ],
+    "Feature Extraction": [
+        "zrT2qETJilw",
+        "wcFdmQSX6hM",
+        "zFeP678054U"
+    ],
+    "Binary Classification": [
+        "zrT2qETJilw",
+        "dgt6IfEXgDk",
+        "ul2zLF61CyY",
+        "4EOCQJgqAOY",
+        "K-Phci4v3lY",
+        "tVsVmy6w7FE",
+        "sbbYntt5CJk",
+        "f0RD7Zjvnvc",
+        "wr9gUr-eWdA",
+        "ee-HYD6kKqM",
+        "JMUxmLyrhSk",
+        "8Hg2UtQg6G4",
+        "M9Itm95JzL0",
+        "TTEEkMRZAC8"
+    ],
+    "Support Vector Classifier": [
+        "zrT2qETJilw",
+        "qoyp8pBtCZ0",
+        "PlQZepYEppQ",
+        "X3Wbfb4M33w",
+        "yN7ypxC7838",
+        "Lpr__X8zuE8"
+    ],
+    "DataFrames": [
+        "0E0DrKvXi-Y",
+        "BI2f6Mefhjo",
+        "ul2zLF61CyY",
+        "JvvEuBiFjB4",
+        "B42n3Pc-N2A",
+        "bN4UuCBdpZc",
+        "3ZWuPVWq7p4",
+        "VAWjhAakw4s",
+        "3u7MQz1EyPY",
+        "RlIiVeig3hc",
+        "e60ItwlZTKM",
+        "eMOA1pPVUc4",
+        "dtuKSYpdcFc",
+        "eT3JMZagMnE",
+        "5u35GY24A0Q"
+    ],
+    "Unsupervised Learning": [
+        "0E0DrKvXi-Y",
+        "Liff_GA74EI",
+        "4PXAztQtoTg",
+        "OB1reY6IX-o",
+        "0wUF_Ov8b0A",
+        "DooxDIRAkPA",
+        "_3eaVy8c-xk",
+        "dafuAz_CV7Q",
+        "JMUxmLyrhSk",
+        "9wXc0stU-RA",
+        "yN7ypxC7838",
+        "mQaAPoRGOcs"
+    ],
+    "Knowledge Extraction": [
+        "Zxf24EDKVq4",
+        "_M_nF7aTQzQ",
+        "2e4fgSgn64Q",
+        "_hAVVULrZ0Q"
+    ],
+    "Keras": [
+        "XNKeayZW4dY",
+        "A6kO2HD-LHA",
+        "pXGBHV3y8rs"
+    ],
+    "Python": [
+        "Jup65F24WlY",
+        "EsDFiZPljYo"
+    ],
+    "Bagging": [
+        "mld0TnA2jEs",
+        "841I7-imlVo",
+        "r5C3TUIw6Zk",
+        "4EOCQJgqAOY",
+        "X3Wbfb4M33w",
+        "WtWxOhhZWX0",
+        "wr9gUr-eWdA",
+        "d12ra3b_M-0"
+    ],
+    "Statistical Tests": [
+        "UaptUhOushw",
+        "XbHeCL_8UhA",
+        "kPBz2c3zz-4",
+        "Zf1MLaWIOfQ",
+        "egTNM8NSa2k",
+        "pxckixOlguA",
+        "I10q6fjPxJ0",
+        "zFeP678054U",
+        "3ecNC-So0r4"
+    ],
+    "Hypothesis Test": [
+        "UaptUhOushw",
+        "XbHeCL_8UhA",
+        "cn4S3QqEBRg",
+        "jOBo03OOVQM",
+        "Y3QzLIBp64M",
+        "8vOsOST-FPA"
+    ],
+    "Estimation": [
+        "XbHeCL_8UhA",
+        "_tEek2jPn-4",
+        "F1eOEAvKq3g",
+        "g7Ej9yQ_Eis",
+        "XcLO4f1i4Yo"
+    ],
+    "Confidence Interval": [
+        "XbHeCL_8UhA",
+        "_tEek2jPn-4",
+        "898mey_dKSs",
+        "OgO1gpXSUzU",
+        "XcLO4f1i4Yo",
+        "sbbYntt5CJk",
+        "zHcQPKP6NpM"
+    ],
+    "Distributions": [
+        "XbHeCL_8UhA",
+        "XepXtl9YKwc",
+        "cn4S3QqEBRg",
+        "_tEek2jPn-4",
+        "JvvEuBiFjB4",
+        "RETZus4XBNM",
+        "OgO1gpXSUzU",
+        "5amKlNtIoT0",
+        "sbbYntt5CJk",
+        "hvIptUuUCdU",
+        "8vOsOST-FPA"
+    ],
+    "Regression Methods": [
+        "XbHeCL_8UhA",
+        "f4voKCjhMhQ",
+        "ul2zLF61CyY",
+        "_m8v77qbkBA",
+        "AJzvuvVrEVM",
+        "9wXc0stU-RA",
+        "0gf5iLTbiQM",
+        "i04Pfrb71vk"
+    ],
+    "Maximum Likelihood Estimation": [
+        "XepXtl9YKwc",
+        "93fPFOf547Q",
+        "5amKlNtIoT0",
+        "f0RD7Zjvnvc",
+        "wM6CWzv4VkQ",
+        "7CH8Mb6OH3k"
+    ],
+    "Expectation Maximization": [
+        "93fPFOf547Q",
+        "5amKlNtIoT0"
+    ],
+    "Bias": [
+        "_tEek2jPn-4",
+        "4EOCQJgqAOY",
+        "wjILv3-UGM8",
+        "qlKZKN7il7c",
+        "pXGBHV3y8rs",
+        "DCk-p6MsiWA",
+        "iEt2UbqAhls",
+        "f2m6Mon0VE8",
+        "5u35GY24A0Q"
+    ],
+    "Probability": [
+        "_tEek2jPn-4",
+        "RETZus4XBNM",
+        "LBemXHm_Ops",
+        "s5zuplW8ua8",
+        "XcLO4f1i4Yo",
+        "VAWjhAakw4s",
+        "8vOsOST-FPA"
+    ],
+    "Loss function": [
+        "k8AW4Zfq3U8",
+        "pXGBHV3y8rs",
+        "eyovmAtoUx0",
+        "wr9gUr-eWdA",
+        "_XPkAxm0Yx0"
+    ],
+    "ROC Curve": [
+        "cnpKC49YYB4",
+        "wNkB2WDllyI",
+        "f4voKCjhMhQ",
+        "OByOgGXq76A",
+        "EQASA00NQgM",
+        "gm4v_SGQx3I",
+        "85dtiMz9tSo"
+    ],
+    "False Positives": [
+        "cnpKC49YYB4"
+    ],
+    "Validation and Test Sets": [
+        "ms-Ooh9mjiE",
+        "JfeB_n4zsRM",
+        "CMUe26KVhew",
+        "X3Wbfb4M33w",
+        "iEt2UbqAhls",
+        "RzgFtJQnNtc"
+    ],
+    "Model Architecture": [
+        "qqZTIDaQwho",
+        "yakg94HyWdE"
+    ],
+    "Lift Charts": [
+        "kPBz2c3zz-4",
+        "898mey_dKSs",
+        "3u7MQz1EyPY"
+    ],
+    "False Negatives": [
+        "Zf1MLaWIOfQ",
+        "tTAieUcNHdY",
+        "_9dsx4tyzJ8"
+    ],
+    "Principal Component Analysis": [
+        "tTAieUcNHdY",
+        "jOBo03OOVQM",
+        "ZVZHknMJ4N0",
+        "OXQtmRtgEF4",
+        "Y0ECToJ8KJY",
+        "NUn6WeFM5cM",
+        "O3qXimMGn28",
+        "F37gDOXQWWs",
+        "n7npKX5zIWI",
+        "sooj-_bXWgk"
+    ],
+    "Underfitting": [
+        "f4voKCjhMhQ",
+        "a0sqE7y53W8",
+        "W-0-u6XVbE4",
+        "wr9gUr-eWdA"
+    ],
+    "Pytorch": [
+        "A6kO2HD-LHA"
+    ],
+    "Tensorflow": [
+        "A6kO2HD-LHA",
+        "JpTYbmpoHT0",
+        "AhE8RhPGH1A",
+        "cNDA60YLVdQ",
+        "0GoPTJE7Vms",
+        "84gqSbLcBFE",
+        "y6X0bf3beVc",
+        "DooxDIRAkPA",
+        "65DJ0XRZLiQ"
+    ],
+    "XGBoost": [
+        "A6kO2HD-LHA",
+        "wVRidHbwLB0",
+        "WtWxOhhZWX0"
+    ],
+    "Pandas": [
+        "BI2f6Mefhjo",
+        "CD58mco2XqA",
+        "KLPtEBokqQ0",
+        "u2zsY-2uZiE",
+        "B42n3Pc-N2A",
+        "3ZWuPVWq7p4",
+        "9d5-Ti6onew",
+        "dtuKSYpdcFc",
+        "_RPHiqF2bSs"
+    ],
+    "Dropout": [
+        "BI2f6Mefhjo",
+        "bN4UuCBdpZc"
+    ],
+    "Factor Analysis": [
+        "jOBo03OOVQM",
+        "RzgFtJQnNtc",
+        "5u35GY24A0Q"
+    ],
+    "K Means Clustering": [
+        "Liff_GA74EI",
+        "ZVZHknMJ4N0",
+        "CMUe26KVhew",
+        "pqNCD_5r0IU",
+        "vtuH4VRq1AU",
+        "JMUxmLyrhSk",
+        "G5l6xi_D64Y"
+    ],
+    "Euclidean Distance": [
+        "Liff_GA74EI",
+        "ZVZHknMJ4N0",
+        "X4Ic1ui3jD0",
+        "vtuH4VRq1AU",
+        "FTzZff0uq9U",
+        "4Q0kUCvhmAk",
+        "eg8DJYwdMyg"
+    ],
+    "Random Sampling": [
+        "IU5fuoYBTAM"
+    ],
+    "Hierarchical Clustering": [
+        "ZVZHknMJ4N0",
+        "_T8LGqJtuGc",
+        "4Q0kUCvhmAk",
+        "RzgFtJQnNtc"
+    ],
+    "Frequency distribution": [
+        "soZRfdnkUQg",
+        "soZRfdnkUQg",
+        "PlQZepYEppQ",
+        "sbbYntt5CJk",
+        "v5ijNXvlC5A"
+    ],
+    "Categorical independence": [
+        "soZRfdnkUQg",
+        "soZRfdnkUQg",
+        "sbbYntt5CJk",
+        "wcFdmQSX6hM",
+        "zHcQPKP6NpM",
+        "wr9gUr-eWdA",
+        "d12ra3b_M-0"
+    ],
+    "Combinations and permutations": [
+        "soZRfdnkUQg",
+        "soZRfdnkUQg",
+        "RETZus4XBNM",
+        "_9dsx4tyzJ8",
+        "sbbYntt5CJk"
+    ],
+    "Bayes Rule": [
+        "ul2zLF61CyY",
+        "EQASA00NQgM",
+        "F1eOEAvKq3g",
+        "lG4VkPoG3ko",
+        "XcLO4f1i4Yo"
+    ],
+    "Regression Trees": [
+        "ul2zLF61CyY",
+        "OByOgGXq76A",
+        "Joxm04J1Cqg",
+        "wr9gUr-eWdA"
+    ],
+    "Feature Selection": [
+        "kA4mD3y4aqA",
+        "wjKvyk8xStg",
+        "2e4fgSgn64Q",
+        "Fqm0ovt5fjY",
+        "fsE9gzbf8Z4",
+        "g_GjvqgvJ0M",
+        "78RUW9kuDe4",
+        "jBslaEzFJCE",
+        "9d5-Ti6onew",
+        "1NjPTh0Eoeg"
+    ],
+    "Filter Method": [
+        "kA4mD3y4aqA",
+        "g_GjvqgvJ0M",
+        "YB64VoGQsK8",
+        "78RUW9kuDe4",
+        "e60ItwlZTKM",
+        "v5ijNXvlC5A"
+    ],
+    "Variance": [
+        "wjKvyk8xStg",
+        "65UJPA10dW8",
+        "6Jz67_xNk7U",
+        "DCk-p6MsiWA"
+    ],
+    "Multiclass Classification": [
+        "loNcrMjYh64",
+        "OByOgGXq76A",
+        "65UJPA10dW8",
+        "K-Phci4v3lY",
+        "_XPkAxm0Yx0"
+    ],
+    "MLOps": [
+        "06-AZXmwHjo",
+        "cNDA60YLVdQ"
+    ],
+    "Spread of Data": [
+        "06-AZXmwHjo",
+        "egTNM8NSa2k",
+        "u2zsY-2uZiE",
+        "B42n3Pc-N2A",
+        "XcLO4f1i4Yo",
+        "Zdh3p4EKLeQ",
+        "zHcQPKP6NpM",
+        "3ecNC-So0r4"
+    ],
+    "Boosting": [
+        "4EOCQJgqAOY",
+        "OByOgGXq76A",
+        "WtWxOhhZWX0",
+        "ZJ9FXBxYPsA"
+    ],
+    "Data Visualization": [
+        "OByOgGXq76A",
+        "YYjvkSJoui4",
+        "egTNM8NSa2k",
+        "EQASA00NQgM",
+        "4PXAztQtoTg",
+        "qlKZKN7il7c",
+        "_ZQ-lQrK9Rg",
+        "OB1reY6IX-o",
+        "kIKBhIAit5I",
+        "oR670Txwh88",
+        "0GoPTJE7Vms",
+        "PlQZepYEppQ",
+        "xXU9Xoc9qK0",
+        "m7CPhQAyP4o",
+        "B42n3Pc-N2A",
+        "bN4UuCBdpZc",
+        "WNvOtwP_yf4",
+        "5rTb6AkKhds",
+        "XcLO4f1i4Yo",
+        "sbbYntt5CJk",
+        "RlQuVL6-qe8",
+        "IGQf3hxlWKI",
+        "ovPheIbY7U8",
+        "g_GjvqgvJ0M",
+        "xLpl4nSo3RA",
+        "f7NfO16l04U",
+        "jBslaEzFJCE",
+        "3u7MQz1EyPY",
+        "9wXc0stU-RA",
+        "3ecNC-So0r4",
+        "eMOA1pPVUc4",
+        "q2Ruz1dHnow",
+        "j-35y1M9rRU",
+        "jhImgx8I8oI",
+        "QvxJL9lfhPw",
+        "Axu4tJl8gbM",
+        "_eAl7vuVu3U",
+        "x6tnVOn4st4"
+    ],
+    "Model Selection": [
+        "OByOgGXq76A",
+        "77V4VJJDPWw",
+        "4PXAztQtoTg",
+        "oR670Txwh88",
+        "a0sqE7y53W8",
+        "xXU9Xoc9qK0",
+        "JfeB_n4zsRM",
+        "rGQ3JT6KS4M",
+        "6zk6uQSuXqs",
+        "w0MqLCHhR_c",
+        "g_GjvqgvJ0M",
+        "7665INW4I5g",
+        "78RUW9kuDe4",
+        "VPZD_aij8H0",
+        "eyovmAtoUx0",
+        "WtWxOhhZWX0",
+        "v5ijNXvlC5A",
+        "6yCxbzDjBDc",
+        "V0Mzr_qO73I",
+        "RzgFtJQnNtc",
+        "C1lhuz6pZC0",
+        "QvxJL9lfhPw",
+        "nKW8Ndu7Mjw",
+        "eg8DJYwdMyg"
+    ],
+    "Entropy": [
+        "YYjvkSJoui4",
+        "8Uilw9t-syQ",
+        "qj7HH0PCqIE",
+        "l4a3e__QzoY",
+        "mQaAPoRGOcs"
+    ],
+    "Collaborative filtering": [
+        "yc6VvRVzSJI",
+        "CqQyrkEvh_8",
+        "K-Phci4v3lY",
+        "ENPBTl0uNOE",
+        "VAWjhAakw4s",
+        "ee-HYD6kKqM",
+        "h9gpufJFF-0",
+        "3ecNC-So0r4",
+        "0oyCUWLL_fU",
+        "OPkgtQwckrg",
+        "wryiEKQ0XhQ",
+        "5u35GY24A0Q"
+    ],
+    "Association Rules": [
+        "898mey_dKSs",
+        "QZJLTeeaftI",
+        "N5i85v0ckzY",
+        "ZYuPIch9TLQ",
+        "f2m6Mon0VE8",
+        "wryiEKQ0XhQ"
+    ],
+    "Data Preprocessing": [
+        "CD58mco2XqA",
+        "_M_nF7aTQzQ",
+        "_T8LGqJtuGc",
+        "xXU9Xoc9qK0",
+        "2e4fgSgn64Q",
+        "m7CPhQAyP4o",
+        "ovPheIbY7U8",
+        "iUnO4MLAGDU",
+        "g_GjvqgvJ0M",
+        "f7NfO16l04U",
+        "jBslaEzFJCE",
+        "O3qXimMGn28",
+        "1NjPTh0Eoeg",
+        "n7npKX5zIWI",
+        "9wXc0stU-RA",
+        "YKjazI85nPQ",
+        "X6zz9Z2KDtU",
+        "M9Itm95JzL0",
+        "eYVl2ckF-nQ",
+        "B5emClQf_I4",
+        "a1jTclwkMBI",
+        "jhImgx8I8oI",
+        "BOk1hlCPW0c",
+        "nKW8Ndu7Mjw",
+        "7CH8Mb6OH3k"
+    ],
+    "Predictive Analysis": [
+        "PYxne5D_32c",
+        "JpTYbmpoHT0",
+        "pxckixOlguA",
+        "4PXAztQtoTg",
+        "ovPheIbY7U8",
+        "bL4b1sGnILU",
+        "AVPf8TjHShQ",
+        "iUnO4MLAGDU",
+        "Zdh3p4EKLeQ",
+        "vtuH4VRq1AU",
+        "h9gpufJFF-0",
+        "M9Itm95JzL0",
+        "TTEEkMRZAC8",
+        "1xw915rbyG4",
+        "Ra_yTQnhf_8",
+        "N2rZKLtKni0",
+        "_RPHiqF2bSs",
+        "nKW8Ndu7Mjw"
+    ],
+    "Numpy": [
+        "EEUXKG97YRw",
+        "4PXAztQtoTg",
+        "8y-o1zWSXR8",
+        "P_q0tkYqvSk",
+        "u2zsY-2uZiE",
+        "9fcTq8PDWWA",
+        "TTEEkMRZAC8",
+        "_eAl7vuVu3U"
+    ],
+    "Bias Variance Tradeoff": [
+        "65UJPA10dW8",
+        "DCk-p6MsiWA",
+        "gm4v_SGQx3I",
+        "elTJQ8NGhE0"
+    ],
+    "Sales Prediction": [
+        "wGUV_XqchbE"
+    ],
+    "Time Series": [
+        "wGUV_XqchbE"
+    ],
+    "Transfer learning": [
+        "JpTYbmpoHT0",
+        "pxckixOlguA",
+        "8Hg2UtQg6G4",
+        "HARGzJ8qFGQ",
+        "_XPkAxm0Yx0"
+    ],
+    "Machine Learning": [
+        "JpTYbmpoHT0",
+        "4PXAztQtoTg",
+        "_ZQ-lQrK9Rg",
+        "dpoN3eJgROM",
+        "OB1reY6IX-o",
+        "kIKBhIAit5I",
+        "a0sqE7y53W8",
+        "wi2FiyCoT8M",
+        "yTaxI1k2zgI",
+        "RlQuVL6-qe8",
+        "g08qBcdk3Ss",
+        "37Yt41ouaNM",
+        "0sKPkJME2Jw",
+        "iUnO4MLAGDU",
+        "VAWjhAakw4s",
+        "DooxDIRAkPA",
+        "eyovmAtoUx0",
+        "zFeP678054U",
+        "ous4EtqOnaQ",
+        "dafuAz_CV7Q",
+        "JMUxmLyrhSk",
+        "9wXc0stU-RA",
+        "ix6Wj5tntp8",
+        "d12ra3b_M-0",
+        "iEt2UbqAhls",
+        "OPkgtQwckrg",
+        "yjy90pdBLfo",
+        "RzgFtJQnNtc",
+        "8zwILUzux6o",
+        "65DJ0XRZLiQ",
+        "t4K6lney7Zw",
+        "Axu4tJl8gbM",
+        "AxrKrlWmZ_A",
+        "I7NrVwm3apg",
+        "nl7kDPYD20A"
+    ],
+    "Image Classification": [
+        "JpTYbmpoHT0",
+        "4PXAztQtoTg",
+        "K-Phci4v3lY",
+        "OB1reY6IX-o",
+        "a0sqE7y53W8",
+        "rW0B8o7JtFk",
+        "pqNCD_5r0IU",
+        "fyAZszlPphs",
+        "8iGzBMboA0I",
+        "AJzvuvVrEVM",
+        "X0HXnHKPXSo",
+        "jBslaEzFJCE",
+        "QcZJBkL7rhk",
+        "_QUEXsHfsA0",
+        "Ra_yTQnhf_8",
+        "RzgFtJQnNtc",
+        "yN7ypxC7838",
+        "DG7YTlGnCEo"
+    ],
+    "Rules for probability": [
+        "F1eOEAvKq3g",
+        "XcLO4f1i4Yo",
+        "sbbYntt5CJk"
+    ],
+    "SVM": [
+        "m2a2K4lprQw"
+    ],
+    "RMSProp": [
+        "TudQZtgpoHk"
+    ],
+    "Adagrad": [
+        "TudQZtgpoHk"
+    ],
+    "Hypothesis testing": [
+        "pxckixOlguA",
+        "4MMPHtn3cVE",
+        "XcLO4f1i4Yo",
+        "vemZtEM63GY",
+        "sbbYntt5CJk",
+        "0h05dl6nUlk",
+        "Y3QzLIBp64M",
+        "AJzvuvVrEVM"
+    ],
+    "Distribution of sample proportion": [
+        "pxckixOlguA",
+        "sbbYntt5CJk"
+    ],
+    "Scikit-learn": [
+        "9fOWryQq9J8",
+        "0Lt9w-BxKFQ"
+    ],
+    "Tree Based Methods": [
+        "AhE8RhPGH1A",
+        "0wUF_Ov8b0A",
+        "AxrKrlWmZ_A"
+    ],
+    "Activation Function": [
+        "AhE8RhPGH1A",
+        "5tvmMX8r_OM",
+        "DooxDIRAkPA",
+        "eyovmAtoUx0",
+        "_XPkAxm0Yx0",
+        "t4K6lney7Zw"
+    ],
+    "Univariate Data Analysis": [
+        "_ZQ-lQrK9Rg",
+        "7CH8Mb6OH3k"
+    ],
+    "Backpropagation": [
+        "5tvmMX8r_OM",
+        "IUylp47hNA0",
+        "pqNCD_5r0IU",
+        "fyAZszlPphs",
+        "r3q05c1PIRg",
+        "eyovmAtoUx0",
+        "JMUxmLyrhSk"
+    ],
+    "Model Deployment": [
+        "pXGBHV3y8rs",
+        "g7Ej9yQ_Eis",
+        "xXU9Xoc9qK0",
+        "knTc-NQSjKA",
+        "N1BjPk1smdg",
+        "f0RD7Zjvnvc",
+        "udXjlvCFusc",
+        "85dtiMz9tSo",
+        "ovPheIbY7U8",
+        "r3q05c1PIRg",
+        "YKjazI85nPQ",
+        "0oyCUWLL_fU",
+        "_QUEXsHfsA0",
+        "RzgFtJQnNtc",
+        "07jQR_3hmbY",
+        "eT3JMZagMnE",
+        "_RPHiqF2bSs",
+        "eg8DJYwdMyg",
+        "TuIgtitqJho"
+    ],
+    "Epochs": [
+        "pXGBHV3y8rs"
+    ],
+    "BERT": [
+        "FKlPCK1uFrc",
+        "P1jUUdtckiY",
+        "f2m6Mon0VE8"
+    ],
+    "Bivariate Data Analysis": [
+        "_m8v77qbkBA",
+        "bkLHszLlH34",
+        "g_GjvqgvJ0M",
+        "zHcQPKP6NpM"
+    ],
+    "Dimensionality Reduction": [
+        "OXQtmRtgEF4",
+        "0IjQ0SyQEOI",
+        "2e4fgSgn64Q",
+        "78RUW9kuDe4",
+        "X0HXnHKPXSo",
+        "O3qXimMGn28",
+        "QcZJBkL7rhk",
+        "F37gDOXQWWs",
+        "n7npKX5zIWI",
+        "ioXKxulmwVQ",
+        "yN7ypxC7838",
+        "DG7YTlGnCEo"
+    ],
+    "Semi-supervised learning": [
+        "tVsVmy6w7FE",
+        "_3eaVy8c-xk"
+    ],
+    "Reinforcement Learning": [
+        "oR670Txwh88",
+        "yTaxI1k2zgI",
+        "84gqSbLcBFE",
+        "DooxDIRAkPA",
+        "AggqBRdz6CQ",
+        "VJo2wLVMePQ",
+        "fmK5YWWobH8",
+        "73t6nJT2xbw",
+        "zHcQPKP6NpM",
+        "_3eaVy8c-xk",
+        "dafuAz_CV7Q",
+        "JMUxmLyrhSk",
+        "9wXc0stU-RA",
+        "65DJ0XRZLiQ",
+        "5u35GY24A0Q"
+    ],
+    "Transformer Architecture": [
+        "P1jUUdtckiY",
+        "6zk6uQSuXqs",
+        "0wUF_Ov8b0A",
+        "8Hg2UtQg6G4",
+        "f2m6Mon0VE8"
+    ],
+    "Attention Mechanism": [
+        "P1jUUdtckiY"
+    ],
+    "Bayesian methods": [
+        "a0sqE7y53W8",
+        "NEbbj68V-GQ",
+        "_hAVVULrZ0Q",
+        "AJzvuvVrEVM",
+        "YB64VoGQsK8",
+        "AggqBRdz6CQ",
+        "5nYqK-HaoKY"
+    ],
+    "Discrete distribution": [
+        "xXU9Xoc9qK0",
+        "XcLO4f1i4Yo",
+        "AJzvuvVrEVM",
+        "hvIptUuUCdU"
+    ],
+    "Information Gain": [
+        "qj7HH0PCqIE",
+        "XcLO4f1i4Yo",
+        "zFeP678054U",
+        "_tPhvt6f_qE"
+    ],
+    "Postpruning": [
+        "elTJQ8NGhE0",
+        "Joxm04J1Cqg"
+    ],
+    "Mean Squared Error": [
+        "4MMPHtn3cVE",
+        "3ZWuPVWq7p4"
+    ],
+    "Pearson Correlation": [
+        "u2zsY-2uZiE",
+        "bL4b1sGnILU",
+        "I10q6fjPxJ0",
+        "7665INW4I5g",
+        "fmK5YWWobH8",
+        "9wXc0stU-RA",
+        "YaKMeAlHgqQ",
+        "v5ijNXvlC5A",
+        "3ecNC-So0r4"
+    ],
+    "Ensemble Methods": [
+        "wVRidHbwLB0",
+        "WtWxOhhZWX0",
+        "ZJ9FXBxYPsA"
+    ],
+    "Computer Vision": [
+        "2O3vCltvicM",
+        "n1ViNeWhC24",
+        "AggqBRdz6CQ",
+        "iEt2UbqAhls",
+        "j-35y1M9rRU",
+        "RzgFtJQnNtc",
+        "07jQR_3hmbY",
+        "7CH8Mb6OH3k"
+    ],
+    "Splitting Criteria": [
+        "3vZo0ApLz0A",
+        "WtWxOhhZWX0",
+        "9wXc0stU-RA",
+        "Lpr__X8zuE8"
+    ],
+    "Log Loss ": [
+        "5rTb6AkKhds",
+        "IlTGoELs-Zg",
+        "fJ53tIDbvTM",
+        "ovPheIbY7U8"
+    ],
+    "Measures of Center": [
+        "XcLO4f1i4Yo",
+        "sbbYntt5CJk",
+        "ZWjlDqy9YsQ",
+        "TPMlZxRRaBQ"
+    ],
+    "Mean Absolute Error": [
+        "XcLO4f1i4Yo",
+        "3ZWuPVWq7p4",
+        "zFeP678054U",
+        "V0Mzr_qO73I"
+    ],
+    "Analysis of variance": [
+        "sbbYntt5CJk"
+    ],
+    "Distribution of sample mean": [
+        "sbbYntt5CJk",
+        "73t6nJT2xbw"
+    ],
+    "Uniform distribution": [
+        "sbbYntt5CJk",
+        "VJo2wLVMePQ"
+    ],
+    "Measures of Dispersion": [
+        "sbbYntt5CJk",
+        "ZWjlDqy9YsQ"
+    ],
+    "Approximating the binomial": [
+        "sbbYntt5CJk",
+        "AJzvuvVrEVM"
+    ],
+    "Exponential distribution": [
+        "sbbYntt5CJk"
+    ],
+    "Poisson distribution": [
+        "sbbYntt5CJk"
+    ],
+    "Central limit theorem": [
+        "sbbYntt5CJk"
+    ],
+    "Hypergeometric distribution": [
+        "sbbYntt5CJk"
+    ],
+    "Pre-training ": [
+        "ylzmtKJnFko"
+    ],
+    "Eigen vectors and values": [
+        "yh5ABTeNUpE"
+    ],
+    "Entity Extraction": [
+        "wM6CWzv4VkQ",
+        "JMUxmLyrhSk",
+        "Ra_yTQnhf_8",
+        "t4K6lney7Zw"
+    ],
+    "AutoML": [
+        "AVPf8TjHShQ",
+        "f2m6Mon0VE8",
+        "7CH8Mb6OH3k"
+    ],
+    "Recursive Feature Elimination": [
+        "g_GjvqgvJ0M"
+    ],
+    "Tableau": [
+        "jj6-0cvcNEA",
+        "3u7MQz1EyPY",
+        "7Jl-RwkzqQ4",
+        "TPMlZxRRaBQ"
+    ],
+    "Quantiles and Percentiles": [
+        "8vOsOST-FPA"
+    ],
+    "Centroid clustering": [
+        "vtuH4VRq1AU",
+        "Se28XHI2_xE"
+    ],
+    "Parametric methods": [
+        "vtuH4VRq1AU"
+    ],
+    "Spearman's Correlation": [
+        "fmK5YWWobH8"
+    ],
+    "Gradient Boosting": [
+        "WtWxOhhZWX0"
+    ],
+    "Adaboost": [
+        "WtWxOhhZWX0"
+    ],
+    "Types of Averages": [
+        "WtWxOhhZWX0",
+        "TuIgtitqJho"
+    ],
+    "F1 Score": [
+        "zFeP678054U",
+        "M9Itm95JzL0"
+    ],
+    "Gini coefficient": [
+        "wr9gUr-eWdA"
+    ],
+    "Cross-Entropy Loss": [
+        "wr9gUr-eWdA",
+        "_XPkAxm0Yx0"
+    ],
+    "ARIMA models": [
+        "0xHf-SJ9Z9U"
+    ],
+    "Recommender Systems": [
+        "39vJRxIPSxw"
+    ],
+    "Hidden Layer": [
+        "bVQUSndDllU"
+    ],
+    "Scree plot": [
+        "4Q0kUCvhmAk"
+    ],
+    "Dendogram": [
+        "4Q0kUCvhmAk"
+    ],
+    "Polynomial Regression": [
+        "V0Mzr_qO73I"
+    ],
+    "Density clustering": [
+        "Se28XHI2_xE"
+    ],
+    "AIC score": [
+        "Gc9EzmfcSas",
+        "TuIgtitqJho"
+    ],
+    "KL divergence": [
+        "Gc9EzmfcSas"
+    ]
+}
