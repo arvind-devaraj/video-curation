@@ -1,5 +1,7 @@
+Machine Learning
 Variance
 Bias
+Bias Variance Tradeoff
 Overfitting
 Singular Value Decomposition
 Principal Component Analysis
@@ -48,18 +50,176 @@ Regularization
 Dropout
 Loss function
 Gradient Descent
+Stochastic gradient descent
 Epochs
 Backpropagation
 Optimizer
 Learning Rate
-Batch size	
+Batch size
 Convolutional Neural Network
 Recurrent Neural Network
 LSTM
 Confusion Matrix
 Recall
 Precision
+F1 Score
 Linear Discriminant Analysis
 Training and Validation
 Validation and Test Sets
 Cross Validation
+Grid Search
+Adagrad
+Adadelta
+RMSProp
+Binomial Distribution
+Normal Distribution
+RSquared
+Mean Squared Error
+Mean Absolute Error
+Tensorflow
+Keras
+Pytorch
+AutoML
+Support Vector Classifier
+ROC Curve
+Binary Classification
+Multiclass Classification
+Log Loss 
+Random Forest
+Gradient Boosting
+Feature Extraction
+Latent Semantic Analysis
+TFIDF
+Inverse Document Frequency
+Text Extraction
+Tokenization
+Bag of words
+CBOW
+Word Embeddings
+Regression Loss
+Knowledge Extraction
+Statistical Tests
+Hypothesis Test
+Maximum Likelihood Estimation
+Bagging
+Boosting
+Probability
+Distributions
+Estimation
+Confidence Interval
+Lift Charts
+False Negatives
+False Positives
+XGBoost
+Factor Analysis
+Euclidean Distance
+Pandas
+DataFrames
+Types of Averages
+Spread of Data
+Quantiles and Percentiles
+Data Visualization
+Regression Trees
+Postpruning
+Numpy
+Ensemble Methods
+Bayes Rule
+Computer Vision
+Splitting Criteria
+Expectation maximization	
+Frequency distribution
+Measures of Center
+Measures of Dispersion
+Rules for probability
+Combinations and permutations
+Discrete distribution
+Binomial distribution
+Poisson distribution
+Hypergeometric distribution
+Uniform distribution
+Exponential distribution
+Normal distribution
+Approximating the binomial
+Central limit theorem
+Distribution of sample mean
+Distribution of sample proportion
+Confidence interval
+Hypothesis testing
+Categorical independence
+Analysis of variance
+Entity Extraction
+Data Preprocessing
+Feature Engineering
+Feature Selection
+Filter Method
+Univariate Data Analysis
+Bivariate Data Analysis
+Recursive Feature Elimination
+Model Selection
+Bayesian methods
+Pearson Correlation
+Spearman's Correlation
+Image Classification
+Cross-Entropy Loss
+Model Deployment
+Tableau
+Transformer Architecture
+Transfer learning
+Scree plot
+Dendogram
+Hierarchical clustering
+Collaborative filtering
+Predictive Analysis
+Centroid clustering
+Density clustering
+KL divergence
+AIC score
+Attention Mechanism
+BERT
+MLOps
+Semi-supervised learning
+Speech Recognition
+K-Fold Cross Validation
+Market Basket Analysis
+Association Rules
+Exploratory Data Analysis
+Apriori Algorithm
+ARIMA models
+Sales Prediction
+Demand Forecasting
+Vector Space Model
+Sentiment Analysis
+Time Series
+SVM
+Support and confidence
+Sampling Bias
+Scikit-learn
+Generalization
+Eigen vectors and values
+Multi-Layer Perceptron
+Hidden Layer
+Chain Rule
+Sigmoid Function
+Softmax Function
+Part of Speech Tagging
+Correlation
+Python
+Model Architecture
+Fine-Tuning
+Pre-training 
+Kernel Methods
+CNN
+Convolutional Neural Networks
+NLTK
+Processing Pipelines
+Mean absolute error
+Mean squared error
+Pandas dataframe
+SageMaker
+ETL
+Conditional Random Fields
+Least squares
+Random Sampling
+Standard Error
+Recommender Systems
+KNIME

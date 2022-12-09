@@ -2,7 +2,7 @@ import googleapiclient.discovery
 from urllib.parse import parse_qs, urlparse
 
 #extract playlist id from url
-url = 'https://www.youtube.com/playlist?list=PL4nM95iGmzlQYdSGNVFu7OP-CvN1hd7w0'
+url = 'https://www.youtube.com/playlist?list=PL4nM95iGmzlS2hkhB2odF9hjrL9iIqLNN'
 query = parse_qs(urlparse(url).query, keep_blank_values=True)
 playlist_id = query["list"][0]
 
@@ -12,7 +12,7 @@ youtube = googleapiclient.discovery.build("youtube", "v3", developerKey = "AIzaS
 request = youtube.playlistItems().list(
     part = "snippet",
     playlistId = playlist_id,
-    maxResults = 50
+    maxResults = 10000
 )
 response = request.execute()
 

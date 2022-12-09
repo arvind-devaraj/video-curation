@@ -1,0 +1,2002 @@
+[
+    {
+        "vid": "zUnC1CV4FAc",
+        "tags": "Normal Distribution"
+    },
+    {
+        "vid": "lZtyxpHsBlg",
+        "tags": "RSquared"
+    },
+    {
+        "vid": "8idr1WZ1A7Q",
+        "tags": "Binomial Distribution"
+    },
+    {
+        "vid": "fqK4mchNlnY",
+        "tags": "Decision Trees"
+    },
+    {
+        "vid": "kytMd3_x9RU",
+        "tags": "Learning Rate,Regularization,Gradient Descent"
+    },
+    {
+        "vid": "jmLid2x9eKg",
+        "tags": "Logistic Regression,Linear Discriminant Analysis,Supervised Learning"
+    },
+    {
+        "vid": "7_YzyMYC2zM",
+        "tags": "Cross Validation,Clustering,Overfitting"
+    },
+    {
+        "vid": "EUiIydNBIbE",
+        "tags": "Precision,Confusion Matrix"
+    },
+    {
+        "vid": "wpQiEHYkBys",
+        "tags": "Precision,Confusion Matrix,Supervised Learning"
+    },
+    {
+        "vid": "EokL7E6o1AE",
+        "tags": "Singular Value Decomposition"
+    },
+    {
+        "vid": "_M7P9VhmJXE",
+        "tags": "Deep Learning,Perceptron,Artificial Intelligence"
+    },
+    {
+        "vid": "YB7XXDXIusg",
+        "tags": "Support Vector Machines"
+    },
+    {
+        "vid": "xoP4h09grBM",
+        "tags": "Hyperparameters"
+    },
+    {
+        "vid": "sDv4f4s2SB8",
+        "tags": "Stochastic gradient descent,Gradient Descent,Loss Functions"
+    },
+    {
+        "vid": "DbzN_gMh3Mw",
+        "tags": "Singular Value Decomposition"
+    },
+    {
+        "vid": "4DI68P4hicQ",
+        "tags": "Random Forest,Singular Value Decomposition,Precision"
+    },
+    {
+        "vid": "j6VSAsKAj98",
+        "tags": "Optimizer,Business Intelligence"
+    },
+    {
+        "vid": "Rjgba38dgDY",
+        "tags": "Decision Trees"
+    },
+    {
+        "vid": "wNBaNhvL4pg",
+        "tags": "Neural Networks"
+    },
+    {
+        "vid": "YX4xRIQ84Z0",
+        "tags": "Inverse Document Frequency,TFIDF"
+    },
+    {
+        "vid": "7WfoYl-EPtI",
+        "tags": "Data Mining,Text Extraction"
+    },
+    {
+        "vid": "uKPBkendlxw",
+        "tags": ""
+    },
+    {
+        "vid": "zS7C5Xhioc4",
+        "tags": "Learning Rate,Deep Learning"
+    },
+    {
+        "vid": "wL49k_MVgZE",
+        "tags": "Tokenization,Word Embeddings,Text Extraction"
+    },
+    {
+        "vid": "vyOgWhwUmec",
+        "tags": "Word Embeddings,Regularization,Bag of words"
+    },
+    {
+        "vid": "YBBnzN-iZZg",
+        "tags": "Recurrent Neural Network,LSTM,Word Embeddings"
+    },
+    {
+        "vid": "1L3JlWsSVrg",
+        "tags": "Word Embeddings,Business Intelligence,Latent Semantic Analysis"
+    },
+    {
+        "vid": "1ePkOSGoIFI",
+        "tags": ""
+    },
+    {
+        "vid": "et-Gcakzb4Q",
+        "tags": ""
+    },
+    {
+        "vid": "Lg49whvL3S8",
+        "tags": "Cross Validation,Random Forest,Grid Search"
+    },
+    {
+        "vid": "1qHR9G8ojQg",
+        "tags": "Recurrent Neural Network,Neural Networks,Word Embeddings"
+    },
+    {
+        "vid": "N6BghzuFLIg",
+        "tags": "Artificial Intelligence,Statistics"
+    },
+    {
+        "vid": "1vGn4xWAwXI",
+        "tags": "Naive Bayes"
+    },
+    {
+        "vid": "zrT2qETJilw",
+        "tags": "Binary Classification,Regression Loss,Feature Extraction"
+    },
+    {
+        "vid": "-boCMDouF2g",
+        "tags": ""
+    },
+    {
+        "vid": "0E0DrKvXi-Y",
+        "tags": "Random Forest,DataFrames,Unsupervised Learning"
+    },
+    {
+        "vid": "W0TcVrI_vRg",
+        "tags": ""
+    },
+    {
+        "vid": "Zxf24EDKVq4",
+        "tags": "Knowledge Extraction,Clustering,Neural Networks"
+    },
+    {
+        "vid": "6xkjElOGXV4",
+        "tags": ""
+    },
+    {
+        "vid": "ilzFiK0nAh8",
+        "tags": ""
+    },
+    {
+        "vid": "4TcUf9OHGR8",
+        "tags": "Word Embeddings,Training and Validation"
+    },
+    {
+        "vid": "qZ1cuyLPRyk",
+        "tags": ""
+    },
+    {
+        "vid": "XNKeayZW4dY",
+        "tags": "Keras,Neural Networks"
+    },
+    {
+        "vid": "MQ5cGjMsUPc",
+        "tags": ""
+    },
+    {
+        "vid": "Jup65F24WlY",
+        "tags": "Python"
+    },
+    {
+        "vid": "4I3gS1cmqe4",
+        "tags": "Word Embeddings"
+    },
+    {
+        "vid": "TQQlZhbC5ps",
+        "tags": "Recurrent Neural Network"
+    },
+    {
+        "vid": "xI0HHN5XKDo",
+        "tags": "Training and Validation"
+    },
+    {
+        "vid": "iMIWee_PXl8",
+        "tags": "Regularization"
+    },
+    {
+        "vid": "9_eZHt2qJs4",
+        "tags": ""
+    },
+    {
+        "vid": "mld0TnA2jEs",
+        "tags": "Bagging,Random Forest,Decision Trees"
+    },
+    {
+        "vid": "UaptUhOushw",
+        "tags": "Statistical Tests,Hypothesis Test"
+    },
+    {
+        "vid": "XbHeCL_8UhA",
+        "tags": "Distributions,Statistics,Hypothesis Test"
+    },
+    {
+        "vid": "3XiJrn_8F9Q",
+        "tags": ""
+    },
+    {
+        "vid": "mkDzmI7YOx0",
+        "tags": ""
+    },
+    {
+        "vid": "wDxTWp3KMMs",
+        "tags": "Training and Validation,Neural Networks"
+    },
+    {
+        "vid": "QfVMewhzJWg",
+        "tags": ""
+    },
+    {
+        "vid": "Q5jtAIVIPPw",
+        "tags": ""
+    },
+    {
+        "vid": "XepXtl9YKwc",
+        "tags": "Distributions,Normal Distribution,Maximum Likelihood Estimation"
+    },
+    {
+        "vid": "q71Niz856KE",
+        "tags": "Clustering"
+    },
+    {
+        "vid": "cn4S3QqEBRg",
+        "tags": "Distributions,Hypothesis Test"
+    },
+    {
+        "vid": "dRJGyhS6gA0",
+        "tags": "Supervised Learning"
+    },
+    {
+        "vid": "93fPFOf547Q",
+        "tags": "Maximum Likelihood Estimation,Expectation Maximization"
+    },
+    {
+        "vid": "RPtYRm2tboA",
+        "tags": ""
+    },
+    {
+        "vid": "1NxnPkZM9bc",
+        "tags": ""
+    },
+    {
+        "vid": "841I7-imlVo",
+        "tags": "Bagging,Random Forest,Decision Trees"
+    },
+    {
+        "vid": "r5C3TUIw6Zk",
+        "tags": "Bagging,Random Forest"
+    },
+    {
+        "vid": "_tEek2jPn-4",
+        "tags": "Distributions,Probability,Statistics"
+    },
+    {
+        "vid": "az60jS7MQhU",
+        "tags": "Cross Validation"
+    },
+    {
+        "vid": "k8AW4Zfq3U8",
+        "tags": "Loss function"
+    },
+    {
+        "vid": "cnpKC49YYB4",
+        "tags": "ROC Curve,False Positives"
+    },
+    {
+        "vid": "ms-Ooh9mjiE",
+        "tags": "Validation and Test Sets,Training and Validation,Clustering"
+    },
+    {
+        "vid": "qqZTIDaQwho",
+        "tags": "Model Architecture"
+    },
+    {
+        "vid": "RXcxsVLkkFI",
+        "tags": ""
+    },
+    {
+        "vid": "wNkB2WDllyI",
+        "tags": "Random Forest,ROC Curve"
+    },
+    {
+        "vid": "7o9TMQAHgkQ",
+        "tags": "Data Mining,Clustering,Supervised Learning"
+    },
+    {
+        "vid": "RSQsMYax_BU",
+        "tags": ""
+    },
+    {
+        "vid": "TY3MS9l5xCU",
+        "tags": ""
+    },
+    {
+        "vid": "3x4XLq9JfS8",
+        "tags": ""
+    },
+    {
+        "vid": "Ne1cs9bBygs",
+        "tags": ""
+    },
+    {
+        "vid": "bJVtvrE3n4w",
+        "tags": ""
+    },
+    {
+        "vid": "ZQUxrnFhhAI",
+        "tags": ""
+    },
+    {
+        "vid": "i0ejjl7Nssg",
+        "tags": ""
+    },
+    {
+        "vid": "r-vYJqcFxBI",
+        "tags": ""
+    },
+    {
+        "vid": "wCZ1VEmVjVo",
+        "tags": ""
+    },
+    {
+        "vid": "nodQ2s0CUbI",
+        "tags": ""
+    },
+    {
+        "vid": "UhY5vPfQIrA",
+        "tags": ""
+    },
+    {
+        "vid": "kPBz2c3zz-4",
+        "tags": "Statistical Tests,Data Mining,Business Intelligence"
+    },
+    {
+        "vid": "dgt6IfEXgDk",
+        "tags": "Binary Classification,Deep Learning,Clustering"
+    },
+    {
+        "vid": "Zf1MLaWIOfQ",
+        "tags": "Statistical Tests,Statistics,False Negatives"
+    },
+    {
+        "vid": "tTAieUcNHdY",
+        "tags": "Cross Validation,Data Mining,Clustering"
+    },
+    {
+        "vid": "yXGUwE-LHTQ",
+        "tags": ""
+    },
+    {
+        "vid": "f4voKCjhMhQ",
+        "tags": "Underfitting,Confusion Matrix,Grid Search"
+    },
+    {
+        "vid": "qoyp8pBtCZ0",
+        "tags": "Support Vector Classifier"
+    },
+    {
+        "vid": "A6kO2HD-LHA",
+        "tags": "XGBoost,Supervised Learning,Keras"
+    },
+    {
+        "vid": "Wj5ole72Q9g",
+        "tags": "Data Mining"
+    },
+    {
+        "vid": "BI2f6Mefhjo",
+        "tags": "Dropout,DataFrames,Text Extraction"
+    },
+    {
+        "vid": "jOBo03OOVQM",
+        "tags": "Principal Component Analysis,Business Intelligence,Hypothesis Test"
+    },
+    {
+        "vid": "Liff_GA74EI",
+        "tags": "K Means Clustering,Euclidean Distance,Unsupervised Learning"
+    },
+    {
+        "vid": "SnmXndIus9c",
+        "tags": "Artificial Intelligence"
+    },
+    {
+        "vid": "zII6KLR4Lb4",
+        "tags": ""
+    },
+    {
+        "vid": "3wi0lJPfLUY",
+        "tags": ""
+    },
+    {
+        "vid": "IU5fuoYBTAM",
+        "tags": "Random Sampling"
+    },
+    {
+        "vid": "ZVZHknMJ4N0",
+        "tags": "Clustering,K Means Clustering,Euclidean Distance"
+    },
+    {
+        "vid": "soZRfdnkUQg",
+        "tags": "Combinations and permutations,Categorical independence,Frequency distribution"
+    },
+    {
+        "vid": "soZRfdnkUQg",
+        "tags": "Combinations and permutations,Categorical independence,Frequency distribution"
+    },
+    {
+        "vid": "VQq8DwEJeoU",
+        "tags": ""
+    },
+    {
+        "vid": "ul2zLF61CyY",
+        "tags": "Bayes Rule,Binary Classification,DataFrames"
+    },
+    {
+        "vid": "ge-JBfqKCBc",
+        "tags": ""
+    },
+    {
+        "vid": "EqLBAmtKMnQ",
+        "tags": ""
+    },
+    {
+        "vid": "kA4mD3y4aqA",
+        "tags": "Filter Method,Feature Selection"
+    },
+    {
+        "vid": "cw4qG9ePZ9Y",
+        "tags": ""
+    },
+    {
+        "vid": "wjKvyk8xStg",
+        "tags": "Variance,Feature Selection"
+    },
+    {
+        "vid": "tQi7vanY_RU",
+        "tags": "Random Forest"
+    },
+    {
+        "vid": "loNcrMjYh64",
+        "tags": "Multiclass Classification"
+    },
+    {
+        "vid": "06-AZXmwHjo",
+        "tags": "Spread of Data,MLOps"
+    },
+    {
+        "vid": "4EOCQJgqAOY",
+        "tags": "Boosting,Binary Classification,Random Forest"
+    },
+    {
+        "vid": "LmT3xyTHNR0",
+        "tags": ""
+    },
+    {
+        "vid": "wjILv3-UGM8",
+        "tags": "Cross Validation,Bias"
+    },
+    {
+        "vid": "w-eWTxbRQcU",
+        "tags": "Random Forest"
+    },
+    {
+        "vid": "OByOgGXq76A",
+        "tags": "Boosting,Data Visualization,Random Forest"
+    },
+    {
+        "vid": "YYjvkSJoui4",
+        "tags": "Feature Engineering,Entropy,Data Visualization"
+    },
+    {
+        "vid": "REnBIx6IfUo",
+        "tags": ""
+    },
+    {
+        "vid": "yc6VvRVzSJI",
+        "tags": "Learning Rate,Collaborative filtering,Clustering"
+    },
+    {
+        "vid": "qAv_QqmEk78",
+        "tags": ""
+    },
+    {
+        "vid": "898mey_dKSs",
+        "tags": "Optimizer,Association Rules,Lift Charts"
+    },
+    {
+        "vid": "-WXm2h_2_H0",
+        "tags": ""
+    },
+    {
+        "vid": "CD58mco2XqA",
+        "tags": "Data Preprocessing,Statistics,Pandas"
+    },
+    {
+        "vid": "PYxne5D_32c",
+        "tags": "Predictive Analysis"
+    },
+    {
+        "vid": "EEUXKG97YRw",
+        "tags": "Numpy"
+    },
+    {
+        "vid": "egTNM8NSa2k",
+        "tags": "Statistical Tests,Spread of Data,Data Visualization"
+    },
+    {
+        "vid": "EQASA00NQgM",
+        "tags": "Data Visualization,ROC Curve,Bayes Rule"
+    },
+    {
+        "vid": "65UJPA10dW8",
+        "tags": "Cross Validation,Variance,Naive Bayes"
+    },
+    {
+        "vid": "wGUV_XqchbE",
+        "tags": "Time Series,Sales Prediction"
+    },
+    {
+        "vid": "8FCDpFhd1zk",
+        "tags": ""
+    },
+    {
+        "vid": "JpTYbmpoHT0",
+        "tags": "Predictive Analysis,Data Mining,Perceptron"
+    },
+    {
+        "vid": "4QIWJVVWJdQ",
+        "tags": "Training and Validation"
+    },
+    {
+        "vid": "JvvEuBiFjB4",
+        "tags": "Distributions,DataFrames"
+    },
+    {
+        "vid": "F1eOEAvKq3g",
+        "tags": "Naive Bayes,Rules for probability,Bayes Rule"
+    },
+    {
+        "vid": "m2a2K4lprQw",
+        "tags": "SVM"
+    },
+    {
+        "vid": "QZJLTeeaftI",
+        "tags": "Association Rules"
+    },
+    {
+        "vid": "4zuIPwnQVdM",
+        "tags": "Hyperparameters,Logistic Regression"
+    },
+    {
+        "vid": "77V4VJJDPWw",
+        "tags": "Model Selection"
+    },
+    {
+        "vid": "_M_nF7aTQzQ",
+        "tags": "Knowledge Extraction,Data Preprocessing"
+    },
+    {
+        "vid": "CqQyrkEvh_8",
+        "tags": "Collaborative filtering"
+    },
+    {
+        "vid": "X4Ic1ui3jD0",
+        "tags": "K Nearest Neighbours,Clustering,Euclidean Distance"
+    },
+    {
+        "vid": "TudQZtgpoHk",
+        "tags": "Optimizer,RMSProp,Gradient Descent"
+    },
+    {
+        "vid": "MLYwZ-i362Q",
+        "tags": ""
+    },
+    {
+        "vid": "_T8LGqJtuGc",
+        "tags": "Hierarchical Clustering,Data Preprocessing,Statistics"
+    },
+    {
+        "vid": "uya_MHnoKa0",
+        "tags": ""
+    },
+    {
+        "vid": "c_55gZfUK1E",
+        "tags": ""
+    },
+    {
+        "vid": "pxckixOlguA",
+        "tags": "Predictive Analysis,Statistics,Distribution of sample proportion"
+    },
+    {
+        "vid": "RETZus4XBNM",
+        "tags": "Distributions,Combinations and permutations,Probability"
+    },
+    {
+        "vid": "4PXAztQtoTg",
+        "tags": "Numpy,Predictive Analysis,Data Visualization"
+    },
+    {
+        "vid": "9fOWryQq9J8",
+        "tags": "Scikit-learn"
+    },
+    {
+        "vid": "sgQAhG5Q7iY",
+        "tags": ""
+    },
+    {
+        "vid": "sgQAhG5Q7iY",
+        "tags": ""
+    },
+    {
+        "vid": "qlKZKN7il7c",
+        "tags": "Data Visualization,Bias"
+    },
+    {
+        "vid": "AhE8RhPGH1A",
+        "tags": "Neural Networks,Overfitting,Tensorflow"
+    },
+    {
+        "vid": "_ZQ-lQrK9Rg",
+        "tags": "Univariate Data Analysis,Machine Learning,Data Visualization"
+    },
+    {
+        "vid": "KLPtEBokqQ0",
+        "tags": "Pandas"
+    },
+    {
+        "vid": "5tvmMX8r_OM",
+        "tags": "Perceptron,Neural Networks,Learning Rate"
+    },
+    {
+        "vid": "K-Phci4v3lY",
+        "tags": "Image Classification,Collaborative filtering,Binary Classification"
+    },
+    {
+        "vid": "CBipYkwjFWM",
+        "tags": ""
+    },
+    {
+        "vid": "dpoN3eJgROM",
+        "tags": "Machine Learning"
+    },
+    {
+        "vid": "OB1reY6IX-o",
+        "tags": "Data Visualization,Training and Validation,Unsupervised Learning"
+    },
+    {
+        "vid": "ZEq0ivR_pzg",
+        "tags": ""
+    },
+    {
+        "vid": "kIKBhIAit5I",
+        "tags": "Statistics,Regularization,Data Visualization"
+    },
+    {
+        "vid": "pXGBHV3y8rs",
+        "tags": "Loss function,Keras,Bias"
+    },
+    {
+        "vid": "p52Nep7CBdQ",
+        "tags": ""
+    },
+    {
+        "vid": "8y-o1zWSXR8",
+        "tags": "Numpy"
+    },
+    {
+        "vid": "6Jz67_xNk7U",
+        "tags": "Variance,Statistics"
+    },
+    {
+        "vid": "_9dsx4tyzJ8",
+        "tags": "Combinations and permutations,Artificial Intelligence,False Negatives"
+    },
+    {
+        "vid": "FKlPCK1uFrc",
+        "tags": "BERT"
+    },
+    {
+        "vid": "g7Ej9yQ_Eis",
+        "tags": "LSTM,Model Deployment,Estimation"
+    },
+    {
+        "vid": "oVeMquBjNYs",
+        "tags": "Logistic Regression"
+    },
+    {
+        "vid": "_m8v77qbkBA",
+        "tags": "Bivariate Data Analysis,Regression Methods"
+    },
+    {
+        "vid": "OXQtmRtgEF4",
+        "tags": "Principal Component Analysis,Dimensionality Reduction"
+    },
+    {
+        "vid": "0IjQ0SyQEOI",
+        "tags": "Dimensionality Reduction"
+    },
+    {
+        "vid": "tVsVmy6w7FE",
+        "tags": "Binary Classification,Training and Validation,Semi-supervised learning"
+    },
+    {
+        "vid": "oR670Txwh88",
+        "tags": "Data Visualization,Reinforcement Learning,Model Selection"
+    },
+    {
+        "vid": "uI19wIdzh9M",
+        "tags": ""
+    },
+    {
+        "vid": "cNDA60YLVdQ",
+        "tags": "Tensorflow,Deep Learning,Statistics"
+    },
+    {
+        "vid": "KOBmBjlMVAE",
+        "tags": ""
+    },
+    {
+        "vid": "kLDTbavcmd0",
+        "tags": ""
+    },
+    {
+        "vid": "P1jUUdtckiY",
+        "tags": "Word Embeddings,Transformer Architecture,BERT"
+    },
+    {
+        "vid": "Y0ECToJ8KJY",
+        "tags": "Principal Component Analysis"
+    },
+    {
+        "vid": "P_q0tkYqvSk",
+        "tags": "Numpy"
+    },
+    {
+        "vid": "IUylp47hNA0",
+        "tags": "Perceptron,Logistic Regression,Backpropagation"
+    },
+    {
+        "vid": "H1OP0XOREh4",
+        "tags": "Singular Value Decomposition"
+    },
+    {
+        "vid": "MDL384gsAk0",
+        "tags": "Gradient Descent"
+    },
+    {
+        "vid": "LBemXHm_Ops",
+        "tags": "Probability,Loss Functions"
+    },
+    {
+        "vid": "uZeDTwWcnuY",
+        "tags": "Singular Value Decomposition"
+    },
+    {
+        "vid": "0GoPTJE7Vms",
+        "tags": "Data Visualization,Tensorflow,Artificial Intelligence"
+    },
+    {
+        "vid": "wkxgZirbCr4",
+        "tags": ""
+    },
+    {
+        "vid": "s5zuplW8ua8",
+        "tags": "Word Embeddings,Probability"
+    },
+    {
+        "vid": "QpwTEsO51tU",
+        "tags": ""
+    },
+    {
+        "vid": "BlndymsWGX0",
+        "tags": "Training and Validation"
+    },
+    {
+        "vid": "cWZLPv4ZJhE",
+        "tags": ""
+    },
+    {
+        "vid": "DCk-p6MsiWA",
+        "tags": "Variance,Bias,Bias Variance Tradeoff"
+    },
+    {
+        "vid": "PlQZepYEppQ",
+        "tags": "Data Visualization,Frequency distribution,Support Vector Classifier"
+    },
+    {
+        "vid": "jSaU_iDB1Ds",
+        "tags": ""
+    },
+    {
+        "vid": "a0sqE7y53W8",
+        "tags": "Underfitting,Model Selection,Artificial Intelligence"
+    },
+    {
+        "vid": "DLw8b2hIKHQ",
+        "tags": ""
+    },
+    {
+        "vid": "gm4v_SGQx3I",
+        "tags": "ROC Curve,Bias Variance Tradeoff,Precision"
+    },
+    {
+        "vid": "xXU9Xoc9qK0",
+        "tags": "Discrete distribution,Data Visualization,Model Selection"
+    },
+    {
+        "vid": "2e4fgSgn64Q",
+        "tags": "Knowledge Extraction,Data Mining,Regularization"
+    },
+    {
+        "vid": "rEXwTSbocag",
+        "tags": ""
+    },
+    {
+        "vid": "bkLHszLlH34",
+        "tags": "Bivariate Data Analysis"
+    },
+    {
+        "vid": "8Uilw9t-syQ",
+        "tags": "Entropy"
+    },
+    {
+        "vid": "qj7HH0PCqIE",
+        "tags": "Entropy,Information Gain"
+    },
+    {
+        "vid": "elTJQ8NGhE0",
+        "tags": "Overfitting,Postpruning,Bias Variance Tradeoff"
+    },
+    {
+        "vid": "YPZVGSRmjLk",
+        "tags": ""
+    },
+    {
+        "vid": "EFk21H6Q1ew",
+        "tags": ""
+    },
+    {
+        "vid": "Joxm04J1Cqg",
+        "tags": "Regression Trees,Decision Trees,Postpruning"
+    },
+    {
+        "vid": "F9Cx85r5FOU",
+        "tags": ""
+    },
+    {
+        "vid": "m7CPhQAyP4o",
+        "tags": "Data Preprocessing,Data Visualization"
+    },
+    {
+        "vid": "4MMPHtn3cVE",
+        "tags": "Mean Squared Error,Hypothesis testing"
+    },
+    {
+        "vid": "u2zsY-2uZiE",
+        "tags": "Numpy,Statistics,Pearson Correlation"
+    },
+    {
+        "vid": "9lRv01HDU0s",
+        "tags": ""
+    },
+    {
+        "vid": "B42n3Pc-N2A",
+        "tags": "Statistics,Data Visualization,Spread of Data"
+    },
+    {
+        "vid": "9fcTq8PDWWA",
+        "tags": "Numpy"
+    },
+    {
+        "vid": "Fqm0ovt5fjY",
+        "tags": "Feature Selection"
+    },
+    {
+        "vid": "bN4UuCBdpZc",
+        "tags": "Statistics,Neural Networks,Data Visualization"
+    },
+    {
+        "vid": "NEbbj68V-GQ",
+        "tags": "Bayesian methods"
+    },
+    {
+        "vid": "NUn6WeFM5cM",
+        "tags": "Principal Component Analysis,Singular Value Decomposition"
+    },
+    {
+        "vid": "wi2FiyCoT8M",
+        "tags": "Machine Learning"
+    },
+    {
+        "vid": "wVRidHbwLB0",
+        "tags": "Ensemble Methods,XGBoost"
+    },
+    {
+        "vid": "Zrb-xhqPZF4",
+        "tags": ""
+    },
+    {
+        "vid": "JgXLoBvRALA",
+        "tags": ""
+    },
+    {
+        "vid": "VuaQKtygva4",
+        "tags": ""
+    },
+    {
+        "vid": "OgK8JFjkSto",
+        "tags": ""
+    },
+    {
+        "vid": "LejHYUf1mkg",
+        "tags": ""
+    },
+    {
+        "vid": "2O3vCltvicM",
+        "tags": "Computer Vision,Artificial Intelligence"
+    },
+    {
+        "vid": "lG4VkPoG3ko",
+        "tags": "Bayes Rule"
+    },
+    {
+        "vid": "OgO1gpXSUzU",
+        "tags": "Distributions,Linear Regression,Normal Distribution"
+    },
+    {
+        "vid": "rowWM-MijXU",
+        "tags": "Confusion Matrix"
+    },
+    {
+        "vid": "JfeB_n4zsRM",
+        "tags": "Neural Networks,Model Selection,Supervised Learning"
+    },
+    {
+        "vid": "yakg94HyWdE",
+        "tags": "Model Architecture"
+    },
+    {
+        "vid": "rW0B8o7JtFk",
+        "tags": "Linear Regression,Image Classification,Overfitting"
+    },
+    {
+        "vid": "3vZo0ApLz0A",
+        "tags": "Splitting Criteria,Decision Trees,Supervised Learning"
+    },
+    {
+        "vid": "WNvOtwP_yf4",
+        "tags": "Data Visualization"
+    },
+    {
+        "vid": "9jW9G8MO4PQ",
+        "tags": ""
+    },
+    {
+        "vid": "5Z9OIYA8He8",
+        "tags": ""
+    },
+    {
+        "vid": "5rTb6AkKhds",
+        "tags": "Log Loss ,Data Visualization"
+    },
+    {
+        "vid": "2RTD5569m38",
+        "tags": "Clustering"
+    },
+    {
+        "vid": "c5ish_bQetE",
+        "tags": "Optimizer"
+    },
+    {
+        "vid": "CMUe26KVhew",
+        "tags": "Validation and Test Sets,K Means Clustering"
+    },
+    {
+        "vid": "5amKlNtIoT0",
+        "tags": "Distributions,Maximum Likelihood Estimation,Expectation Maximization"
+    },
+    {
+        "vid": "fsE9gzbf8Z4",
+        "tags": "Decision Trees,Feature Selection"
+    },
+    {
+        "vid": "knTc-NQSjKA",
+        "tags": "Optimizer,Model Deployment"
+    },
+    {
+        "vid": "NOKOJWQ2_iE",
+        "tags": "Support Vector Machines"
+    },
+    {
+        "vid": "XcLO4f1i4Yo",
+        "tags": "Probability,Statistics,Bayes Rule"
+    },
+    {
+        "vid": "vemZtEM63GY",
+        "tags": "Hypothesis testing"
+    },
+    {
+        "vid": "YrhlQB3mQFI",
+        "tags": ""
+    },
+    {
+        "vid": "LnlW9gdjWfc",
+        "tags": ""
+    },
+    {
+        "vid": "IlTGoELs-Zg",
+        "tags": "Linear Regression,Log Loss "
+    },
+    {
+        "vid": "sbbYntt5CJk",
+        "tags": "Rules for probability,Measures of Dispersion,Hypergeometric distribution"
+    },
+    {
+        "vid": "-1dYY43DRMA",
+        "tags": ""
+    },
+    {
+        "vid": "rGQ3JT6KS4M",
+        "tags": "Model Selection"
+    },
+    {
+        "vid": "yTaxI1k2zgI",
+        "tags": "Reinforcement Learning,Supervised Learning,Machine Learning"
+    },
+    {
+        "vid": "pqNCD_5r0IU",
+        "tags": "Support Vector Machines,K Means Clustering,Neural Networks"
+    },
+    {
+        "vid": "2aMYxUI0azk",
+        "tags": ""
+    },
+    {
+        "vid": "N1BjPk1smdg",
+        "tags": "Feature Engineering,Model Deployment"
+    },
+    {
+        "vid": "_hAVVULrZ0Q",
+        "tags": "Knowledge Extraction,Data Mining,Naive Bayes"
+    },
+    {
+        "vid": "W-0-u6XVbE4",
+        "tags": "Underfitting,Overfitting"
+    },
+    {
+        "vid": "EsDFiZPljYo",
+        "tags": "Python"
+    },
+    {
+        "vid": "pIzX7wk56iA",
+        "tags": ""
+    },
+    {
+        "vid": "j8080l9Pvic",
+        "tags": ""
+    },
+    {
+        "vid": "iG02TXW7K0U",
+        "tags": ""
+    },
+    {
+        "vid": "fJ53tIDbvTM",
+        "tags": "Log Loss ,Logistic Regression"
+    },
+    {
+        "vid": "h3SCNtJAcHQ",
+        "tags": ""
+    },
+    {
+        "vid": "f0RD7Zjvnvc",
+        "tags": "Binary Classification,Maximum Likelihood Estimation,Model Deployment"
+    },
+    {
+        "vid": "udXjlvCFusc",
+        "tags": "Word Embeddings,Model Deployment"
+    },
+    {
+        "vid": "pli1K75PSa8",
+        "tags": "Business Intelligence"
+    },
+    {
+        "vid": "Qz58vTa8-SY",
+        "tags": ""
+    },
+    {
+        "vid": "ylzmtKJnFko",
+        "tags": "Pre-training "
+    },
+    {
+        "vid": "6zk6uQSuXqs",
+        "tags": "Transformer Architecture,Model Selection"
+    },
+    {
+        "vid": "BFaadIqWlAg",
+        "tags": ""
+    },
+    {
+        "vid": "JBw2Xd_krLc",
+        "tags": ""
+    },
+    {
+        "vid": "URdnFlZnlaE",
+        "tags": "Feature Engineering"
+    },
+    {
+        "vid": "84gqSbLcBFE",
+        "tags": "Tensorflow,Reinforcement Learning"
+    },
+    {
+        "vid": "0Lt9w-BxKFQ",
+        "tags": "Scikit-learn"
+    },
+    {
+        "vid": "JzfR8pOtxZc",
+        "tags": ""
+    },
+    {
+        "vid": "85dtiMz9tSo",
+        "tags": "ROC Curve,Model Deployment,Confusion Matrix"
+    },
+    {
+        "vid": "3ZWuPVWq7p4",
+        "tags": "Mean Squared Error,Mean Absolute Error,DataFrames"
+    },
+    {
+        "vid": "RlQuVL6-qe8",
+        "tags": "Training and Validation,Data Visualization,Logistic Regression"
+    },
+    {
+        "vid": "IGQf3hxlWKI",
+        "tags": "Feature Engineering,Data Visualization"
+    },
+    {
+        "vid": "WMtrJ_R0Ypw",
+        "tags": ""
+    },
+    {
+        "vid": "RJp3Vf4XXQI",
+        "tags": ""
+    },
+    {
+        "vid": "2UsdwrU1VNQ",
+        "tags": ""
+    },
+    {
+        "vid": "QBgISII4vos",
+        "tags": ""
+    },
+    {
+        "vid": "9Z78MoHw-Tw",
+        "tags": ""
+    },
+    {
+        "vid": "rz3_FDVt9eg",
+        "tags": ""
+    },
+    {
+        "vid": "6psBul7K2gw",
+        "tags": ""
+    },
+    {
+        "vid": "0h05dl6nUlk",
+        "tags": "Hypothesis testing"
+    },
+    {
+        "vid": "Y3QzLIBp64M",
+        "tags": "Hypothesis Test,Hypothesis testing"
+    },
+    {
+        "vid": "g08qBcdk3Ss",
+        "tags": "Machine Learning"
+    },
+    {
+        "vid": "9oYosh-AoX0",
+        "tags": "Optimizer,Business Intelligence"
+    },
+    {
+        "vid": "fyAZszlPphs",
+        "tags": "Backpropagation,Image Classification,Deep Learning"
+    },
+    {
+        "vid": "ovPheIbY7U8",
+        "tags": "Predictive Analysis,Log Loss ,Business Intelligence"
+    },
+    {
+        "vid": "EI2QisCvEM4",
+        "tags": ""
+    },
+    {
+        "vid": "LHsPJ2bQX1U",
+        "tags": ""
+    },
+    {
+        "vid": "yh5ABTeNUpE",
+        "tags": "Eigen vectors and values"
+    },
+    {
+        "vid": "8iGzBMboA0I",
+        "tags": "Image Classification,Convolutional Neural Network,Precision"
+    },
+    {
+        "vid": "y6X0bf3beVc",
+        "tags": "Tensorflow"
+    },
+    {
+        "vid": "37Yt41ouaNM",
+        "tags": "Artificial Intelligence,Machine Learning"
+    },
+    {
+        "vid": "AJzvuvVrEVM",
+        "tags": "Statistics,Hypothesis testing,Approximating the binomial"
+    },
+    {
+        "vid": "0sKPkJME2Jw",
+        "tags": "Linear Regression,Machine Learning"
+    },
+    {
+        "vid": "ENPBTl0uNOE",
+        "tags": "Collaborative filtering"
+    },
+    {
+        "vid": "w0MqLCHhR_c",
+        "tags": "Logistic Regression,Model Selection"
+    },
+    {
+        "vid": "0wUF_Ov8b0A",
+        "tags": "Cross Validation,Transformer Architecture,Supervised Learning"
+    },
+    {
+        "vid": "bL4b1sGnILU",
+        "tags": "Predictive Analysis,Pearson Correlation"
+    },
+    {
+        "vid": "wM6CWzv4VkQ",
+        "tags": "Entity Extraction,Maximum Likelihood Estimation,Deep Learning"
+    },
+    {
+        "vid": "YWzFxRZPEyU",
+        "tags": ""
+    },
+    {
+        "vid": "AVPf8TjHShQ",
+        "tags": "Optimizer,Predictive Analysis,AutoML"
+    },
+    {
+        "vid": "iUnO4MLAGDU",
+        "tags": "Predictive Analysis,Training and Validation,Feature Engineering"
+    },
+    {
+        "vid": "VAWjhAakw4s",
+        "tags": "Collaborative filtering,Probability,DataFrames"
+    },
+    {
+        "vid": "I10q6fjPxJ0",
+        "tags": "Statistical Tests,Pearson Correlation"
+    },
+    {
+        "vid": "dB-JHhEJvQA",
+        "tags": ""
+    },
+    {
+        "vid": "wcFdmQSX6hM",
+        "tags": "Categorical independence,Feature Extraction,Feature Engineering"
+    },
+    {
+        "vid": "g_GjvqgvJ0M",
+        "tags": "Data Mining,Cross Validation,Data Visualization"
+    },
+    {
+        "vid": "YB64VoGQsK8",
+        "tags": "Optimizer,Filter Method,Bayesian methods"
+    },
+    {
+        "vid": "-uyXE7dY5H0",
+        "tags": ""
+    },
+    {
+        "vid": "7665INW4I5g",
+        "tags": "Neural Networks,Pearson Correlation,Model Selection"
+    },
+    {
+        "vid": "zUqa6KcwRhs",
+        "tags": "Naive Bayes,Feature Engineering,Logistic Regression"
+    },
+    {
+        "vid": "5CWwwtEM2TA",
+        "tags": ""
+    },
+    {
+        "vid": "78RUW9kuDe4",
+        "tags": "Model Selection,Dimensionality Reduction,Feature Engineering"
+    },
+    {
+        "vid": "VPZD_aij8H0",
+        "tags": "Statistics,Model Selection"
+    },
+    {
+        "vid": "Rsc5znwR5FA",
+        "tags": "Statistics"
+    },
+    {
+        "vid": "tVQZvJwi-ec",
+        "tags": "Stochastic gradient descent"
+    },
+    {
+        "vid": "xLpl4nSo3RA",
+        "tags": "Data Visualization"
+    },
+    {
+        "vid": "X0HXnHKPXSo",
+        "tags": "Linear Regression,Image Classification,Dimensionality Reduction"
+    },
+    {
+        "vid": "SPj8ARqpFEU",
+        "tags": ""
+    },
+    {
+        "vid": "kwA3qM0rm7c",
+        "tags": ""
+    },
+    {
+        "vid": "DooxDIRAkPA",
+        "tags": "Perceptron,Reinforcement Learning,Tensorflow"
+    },
+    {
+        "vid": "r3q05c1PIRg",
+        "tags": "Model Deployment,Backpropagation"
+    },
+    {
+        "vid": "n1ViNeWhC24",
+        "tags": "Computer Vision,Feature Engineering,Supervised Learning"
+    },
+    {
+        "vid": "Th_ckFbc6bI",
+        "tags": ""
+    },
+    {
+        "vid": "F1ka6a13S9I",
+        "tags": ""
+    },
+    {
+        "vid": "eyovmAtoUx0",
+        "tags": "Neural Networks,Loss function,Regularization"
+    },
+    {
+        "vid": "hvIptUuUCdU",
+        "tags": "Distributions,Deep Learning,Discrete distribution"
+    },
+    {
+        "vid": "Zdh3p4EKLeQ",
+        "tags": "Predictive Analysis,Training and Validation,Spread of Data"
+    },
+    {
+        "vid": "f7NfO16l04U",
+        "tags": "Data Preprocessing,Data Visualization"
+    },
+    {
+        "vid": "AggqBRdz6CQ",
+        "tags": "Computer Vision,Statistics,Reinforcement Learning"
+    },
+    {
+        "vid": "jBslaEzFJCE",
+        "tags": "Statistics,Data Visualization,Data Preprocessing"
+    },
+    {
+        "vid": "nCPf8zDJ0d0",
+        "tags": "Convolutional Neural Network,Random Forest,Recurrent Neural Network"
+    },
+    {
+        "vid": "jj6-0cvcNEA",
+        "tags": "Business Intelligence,Tableau"
+    },
+    {
+        "vid": "3u7MQz1EyPY",
+        "tags": "Tableau,Business Intelligence,Data Visualization"
+    },
+    {
+        "vid": "8vOsOST-FPA",
+        "tags": "Distributions,Probability,Statistics"
+    },
+    {
+        "vid": "RlIiVeig3hc",
+        "tags": "DataFrames"
+    },
+    {
+        "vid": "e60ItwlZTKM",
+        "tags": "Filter Method,DataFrames"
+    },
+    {
+        "vid": "9d5-Ti6onew",
+        "tags": "Pandas,Feature Selection"
+    },
+    {
+        "vid": "-o3AxdVcUtQ",
+        "tags": ""
+    },
+    {
+        "vid": "VR52vSbHBAk",
+        "tags": ""
+    },
+    {
+        "vid": "vtuH4VRq1AU",
+        "tags": "Parametric methods,Predictive Analysis,K Means Clustering"
+    },
+    {
+        "vid": "VJo2wLVMePQ",
+        "tags": "Uniform distribution,Reinforcement Learning"
+    },
+    {
+        "vid": "fmK5YWWobH8",
+        "tags": "Spearman's Correlation,Pearson Correlation,Reinforcement Learning"
+    },
+    {
+        "vid": "73t6nJT2xbw",
+        "tags": "Reinforcement Learning,Decision Trees,Distribution of sample mean"
+    },
+    {
+        "vid": "zHcQPKP6NpM",
+        "tags": "Statistics,Categorical independence,Reinforcement Learning"
+    },
+    {
+        "vid": "EBgUiuFXE3E",
+        "tags": ""
+    },
+    {
+        "vid": "-6RqxhNO2yY",
+        "tags": ""
+    },
+    {
+        "vid": "X3Wbfb4M33w",
+        "tags": "Random Forest,Validation and Test Sets,Support Vector Classifier"
+    },
+    {
+        "vid": "O3qXimMGn28",
+        "tags": "Principal Component Analysis,Data Preprocessing,Dimensionality Reduction"
+    },
+    {
+        "vid": "gUxBJU5n2Zs",
+        "tags": ""
+    },
+    {
+        "vid": "rHrItfNeuh0",
+        "tags": ""
+    },
+    {
+        "vid": "FTzZff0uq9U",
+        "tags": "Singular Value Decomposition,Gradient Descent,Euclidean Distance"
+    },
+    {
+        "vid": "WtWxOhhZWX0",
+        "tags": "Ensemble Methods,Cross Validation,XGBoost"
+    },
+    {
+        "vid": "l4a3e__QzoY",
+        "tags": "Precision,Entropy"
+    },
+    {
+        "vid": "N5i85v0ckzY",
+        "tags": "Association Rules"
+    },
+    {
+        "vid": "ZJ9FXBxYPsA",
+        "tags": "Boosting,Ensemble Methods,Decision Trees"
+    },
+    {
+        "vid": "zFeP678054U",
+        "tags": "Cross Validation,Mean Absolute Error,Tokenization"
+    },
+    {
+        "vid": "wr9gUr-eWdA",
+        "tags": "Gini coefficient,Cross-Entropy Loss,Binary Classification"
+    },
+    {
+        "vid": "IcDV9ZjQ6qk",
+        "tags": ""
+    },
+    {
+        "vid": "QcZJBkL7rhk",
+        "tags": "Optimizer,Image Classification,Dimensionality Reduction"
+    },
+    {
+        "vid": "1NjPTh0Eoeg",
+        "tags": "Data Preprocessing,Feature Selection"
+    },
+    {
+        "vid": "ZWjlDqy9YsQ",
+        "tags": "Measures of Center,Measures of Dispersion"
+    },
+    {
+        "vid": "F37gDOXQWWs",
+        "tags": "Principal Component Analysis,Dimensionality Reduction"
+    },
+    {
+        "vid": "ee-HYD6kKqM",
+        "tags": "Optimizer,Collaborative filtering,Binary Classification"
+    },
+    {
+        "vid": "Ah9XWzsB2mo",
+        "tags": "Feature Engineering"
+    },
+    {
+        "vid": "4-4pKPv9lJ4",
+        "tags": ""
+    },
+    {
+        "vid": "ous4EtqOnaQ",
+        "tags": "Machine Learning"
+    },
+    {
+        "vid": "nJAmN6gWdK8",
+        "tags": ""
+    },
+    {
+        "vid": "0xHf-SJ9Z9U",
+        "tags": "ARIMA models"
+    },
+    {
+        "vid": "-ETQ97mXXF0",
+        "tags": ""
+    },
+    {
+        "vid": "n7npKX5zIWI",
+        "tags": "Principal Component Analysis,Data Preprocessing,Dimensionality Reduction"
+    },
+    {
+        "vid": "_3eaVy8c-xk",
+        "tags": "Reinforcement Learning,Decision Trees,Semi-supervised learning"
+    },
+    {
+        "vid": "dafuAz_CV7Q",
+        "tags": "Reinforcement Learning,Artificial Intelligence,Deep Learning"
+    },
+    {
+        "vid": "JMUxmLyrhSk",
+        "tags": "Perceptron,K Means Clustering,Recurrent Neural Network"
+    },
+    {
+        "vid": "9wXc0stU-RA",
+        "tags": "Statistics,Clustering,Splitting Criteria"
+    },
+    {
+        "vid": "ix6Wj5tntp8",
+        "tags": "Supervised Learning,Machine Learning"
+    },
+    {
+        "vid": "9BIYmw5wnBI",
+        "tags": ""
+    },
+    {
+        "vid": "3uxOyk-SczU",
+        "tags": ""
+    },
+    {
+        "vid": "ioXKxulmwVQ",
+        "tags": "Dimensionality Reduction"
+    },
+    {
+        "vid": "YaKMeAlHgqQ",
+        "tags": "Pearson Correlation,Regularization,Clustering"
+    },
+    {
+        "vid": "d12ra3b_M-0",
+        "tags": "Bagging,Categorical independence,Machine Learning"
+    },
+    {
+        "vid": "h9gpufJFF-0",
+        "tags": "Predictive Analysis,Collaborative filtering"
+    },
+    {
+        "vid": "YKjazI85nPQ",
+        "tags": "Data Preprocessing,Feature Engineering,Model Deployment"
+    },
+    {
+        "vid": "5T7hDuh2l_k",
+        "tags": ""
+    },
+    {
+        "vid": "v5ijNXvlC5A",
+        "tags": "Filter Method,Pearson Correlation,Frequency distribution"
+    },
+    {
+        "vid": "39vJRxIPSxw",
+        "tags": "Recommender Systems"
+    },
+    {
+        "vid": "GaXfqoLR_yI",
+        "tags": ""
+    },
+    {
+        "vid": "G5l6xi_D64Y",
+        "tags": "K Nearest Neighbours,K Means Clustering"
+    },
+    {
+        "vid": "f3ua_dDjTNU",
+        "tags": ""
+    },
+    {
+        "vid": "gx6oHqpRgpY",
+        "tags": ""
+    },
+    {
+        "vid": "6yCxbzDjBDc",
+        "tags": "Model Selection"
+    },
+    {
+        "vid": "xlqHQKJ7X1k",
+        "tags": "Artificial Intelligence"
+    },
+    {
+        "vid": "X6zz9Z2KDtU",
+        "tags": "Data Preprocessing"
+    },
+    {
+        "vid": "iEt2UbqAhls",
+        "tags": "Computer Vision,Cross Validation,Regularization"
+    },
+    {
+        "vid": "bVQUSndDllU",
+        "tags": "Hidden Layer"
+    },
+    {
+        "vid": "3ecNC-So0r4",
+        "tags": "Collaborative filtering,Pearson Correlation,Data Visualization"
+    },
+    {
+        "vid": "9rp1pzYn3hY",
+        "tags": ""
+    },
+    {
+        "vid": "-3T0a-ojLt0",
+        "tags": ""
+    },
+    {
+        "vid": "7Jl-RwkzqQ4",
+        "tags": "Business Intelligence,Feature Engineering,Tableau"
+    },
+    {
+        "vid": "TPMlZxRRaBQ",
+        "tags": "Measures of Center,Tableau"
+    },
+    {
+        "vid": "4Q0kUCvhmAk",
+        "tags": "Clustering,Euclidean Distance,Hierarchical Clustering"
+    },
+    {
+        "vid": "8Hg2UtQg6G4",
+        "tags": "Transformer Architecture,Learning Rate,Binary Classification"
+    },
+    {
+        "vid": "5nYqK-HaoKY",
+        "tags": "Bayesian methods,Grid Search"
+    },
+    {
+        "vid": "Gol_qOgRqfA",
+        "tags": "Cross Validation,Grid Search"
+    },
+    {
+        "vid": "elojMnjn4kk",
+        "tags": ""
+    },
+    {
+        "vid": "M9Itm95JzL0",
+        "tags": "Predictive Analysis,Binary Classification,Bag of words"
+    },
+    {
+        "vid": "eMOA1pPVUc4",
+        "tags": "DataFrames,Data Visualization"
+    },
+    {
+        "vid": "0oyCUWLL_fU",
+        "tags": "Stochastic gradient descent,Collaborative filtering,Model Deployment"
+    },
+    {
+        "vid": "V0Mzr_qO73I",
+        "tags": "Polynomial Regression,Mean Absolute Error,Model Selection"
+    },
+    {
+        "vid": "OPkgtQwckrg",
+        "tags": "Collaborative filtering,Decision Trees,Machine Learning"
+    },
+    {
+        "vid": "yjy90pdBLfo",
+        "tags": "Machine Learning"
+    },
+    {
+        "vid": "_QUEXsHfsA0",
+        "tags": "Neural Networks,Stochastic gradient descent,Deep Learning"
+    },
+    {
+        "vid": "bfmFfD2RIcg",
+        "tags": "Neural Networks"
+    },
+    {
+        "vid": "TTEEkMRZAC8",
+        "tags": "Numpy,Predictive Analysis,Binary Classification"
+    },
+    {
+        "vid": "7t-x7poo9uI",
+        "tags": "LSTM,Deep Learning,Precision"
+    },
+    {
+        "vid": "1xw915rbyG4",
+        "tags": "Predictive Analysis"
+    },
+    {
+        "vid": "0gf5iLTbiQM",
+        "tags": "Linear Regression,Logistic Regression,Regression Methods"
+    },
+    {
+        "vid": "eYVl2ckF-nQ",
+        "tags": "Data Preprocessing"
+    },
+    {
+        "vid": "ZYuPIch9TLQ",
+        "tags": "Association Rules"
+    },
+    {
+        "vid": "Ra_yTQnhf_8",
+        "tags": "Predictive Analysis,Clustering,Supervised Learning"
+    },
+    {
+        "vid": "1tUS4Ynhpx0",
+        "tags": "Artificial Intelligence"
+    },
+    {
+        "vid": "DjuyBfflWto",
+        "tags": ""
+    },
+    {
+        "vid": "q2Ruz1dHnow",
+        "tags": "Data Visualization"
+    },
+    {
+        "vid": "j-35y1M9rRU",
+        "tags": "Computer Vision,Data Visualization,Neural Networks"
+    },
+    {
+        "vid": "HARGzJ8qFGQ",
+        "tags": "Transfer learning,Learning Rate,Gradient Descent"
+    },
+    {
+        "vid": "NRCZJUviZN0",
+        "tags": "Deep Learning,Regularization"
+    },
+    {
+        "vid": "_XPkAxm0Yx0",
+        "tags": "Cross-Entropy Loss,Loss function,Transfer learning"
+    },
+    {
+        "vid": "f2m6Mon0VE8",
+        "tags": "Transformer Architecture,BERT,Association Rules"
+    },
+    {
+        "vid": "OggPkhXCX0U",
+        "tags": ""
+    },
+    {
+        "vid": "RzgFtJQnNtc",
+        "tags": "Computer Vision,Factor Analysis,Neural Networks"
+    },
+    {
+        "vid": "C1lhuz6pZC0",
+        "tags": "Model Selection"
+    },
+    {
+        "vid": "wl_D7EquncY",
+        "tags": ""
+    },
+    {
+        "vid": "_wOt50VnJw4",
+        "tags": ""
+    },
+    {
+        "vid": "B5emClQf_I4",
+        "tags": "Data Preprocessing"
+    },
+    {
+        "vid": "N2rZKLtKni0",
+        "tags": "Predictive Analysis"
+    },
+    {
+        "vid": "Se28XHI2_xE",
+        "tags": "Density clustering,Centroid clustering"
+    },
+    {
+        "vid": "4L1aTvwFGBo",
+        "tags": ""
+    },
+    {
+        "vid": "07jQR_3hmbY",
+        "tags": "Computer Vision,Business Intelligence,Model Deployment"
+    },
+    {
+        "vid": "dtuKSYpdcFc",
+        "tags": "DataFrames,Pandas"
+    },
+    {
+        "vid": "8zwILUzux6o",
+        "tags": "Machine Learning,Neural Networks"
+    },
+    {
+        "vid": "1k37OcjH7BM",
+        "tags": "Deep Learning"
+    },
+    {
+        "vid": "65DJ0XRZLiQ",
+        "tags": "Reinforcement Learning,Tensorflow,Deep Learning"
+    },
+    {
+        "vid": "a1jTclwkMBI",
+        "tags": "Data Preprocessing"
+    },
+    {
+        "vid": "ZZ4B0QUHuNc",
+        "tags": ""
+    },
+    {
+        "vid": "eT3JMZagMnE",
+        "tags": "DataFrames,Model Deployment"
+    },
+    {
+        "vid": "RJWo8p_-Dsk",
+        "tags": ""
+    },
+    {
+        "vid": "vLuwxDySiLk",
+        "tags": ""
+    },
+    {
+        "vid": "4UEpI6cs528",
+        "tags": ""
+    },
+    {
+        "vid": "84nDu0fydd4",
+        "tags": ""
+    },
+    {
+        "vid": "t4K6lney7Zw",
+        "tags": "Neural Networks,Business Intelligence,Supervised Learning"
+    },
+    {
+        "vid": "jhImgx8I8oI",
+        "tags": "Data Preprocessing,Data Visualization"
+    },
+    {
+        "vid": "Gc9EzmfcSas",
+        "tags": "AIC score,KL divergence"
+    },
+    {
+        "vid": "QvxJL9lfhPw",
+        "tags": "Training and Validation,Data Visualization,Model Selection"
+    },
+    {
+        "vid": "nPJKFWMiIC8",
+        "tags": ""
+    },
+    {
+        "vid": "BOk1hlCPW0c",
+        "tags": "Data Preprocessing"
+    },
+    {
+        "vid": "_RPHiqF2bSs",
+        "tags": "Predictive Analysis,Model Deployment,Tokenization"
+    },
+    {
+        "vid": "nKW8Ndu7Mjw",
+        "tags": "Predictive Analysis,Data Mining,Model Selection"
+    },
+    {
+        "vid": "yN7ypxC7838",
+        "tags": "Support Vector Machines,Neural Networks,Random Forest"
+    },
+    {
+        "vid": "eg8DJYwdMyg",
+        "tags": "Euclidean Distance,Model Selection,Supervised Learning"
+    },
+    {
+        "vid": "Axu4tJl8gbM",
+        "tags": "Artificial Intelligence,Data Visualization,Statistics"
+    },
+    {
+        "vid": "JJFT5kLBUjg",
+        "tags": "Linear Regression,Logistic Regression"
+    },
+    {
+        "vid": "fUpChfNN5Uo",
+        "tags": "Business Intelligence"
+    },
+    {
+        "vid": "AxrKrlWmZ_A",
+        "tags": "Tree Based Methods,Statistics,Machine Learning"
+    },
+    {
+        "vid": "2VIJYxt511w",
+        "tags": ""
+    },
+    {
+        "vid": "7CH8Mb6OH3k",
+        "tags": "Computer Vision,Univariate Data Analysis,AutoML"
+    },
+    {
+        "vid": "FSPF8NCkXRg",
+        "tags": ""
+    },
+    {
+        "vid": "wryiEKQ0XhQ",
+        "tags": "Collaborative filtering,Supervised Learning,Association Rules"
+    },
+    {
+        "vid": "VP-MoGc32H8",
+        "tags": ""
+    },
+    {
+        "vid": "_tPhvt6f_qE",
+        "tags": "Data Mining,Business Intelligence,Statistics"
+    },
+    {
+        "vid": "ia9aXC5LmvQ",
+        "tags": ""
+    },
+    {
+        "vid": "_eAl7vuVu3U",
+        "tags": "Numpy,Data Visualization,Statistics"
+    },
+    {
+        "vid": "x6tnVOn4st4",
+        "tags": "Data Visualization"
+    },
+    {
+        "vid": "5u35GY24A0Q",
+        "tags": "Collaborative filtering,Factor Analysis,Business Intelligence"
+    },
+    {
+        "vid": "DG7YTlGnCEo",
+        "tags": "Linear Regression,Image Classification,Dimensionality Reduction"
+    },
+    {
+        "vid": "TuIgtitqJho",
+        "tags": "Random Forest,Types of Averages,AIC score"
+    },
+    {
+        "vid": "_DFIPvNXvJk",
+        "tags": ""
+    },
+    {
+        "vid": "Ki2iHgKxRBo",
+        "tags": ""
+    },
+    {
+        "vid": "i04Pfrb71vk",
+        "tags": "Regression Methods,Supervised Learning"
+    },
+    {
+        "vid": "CnP0QX0PL8E",
+        "tags": ""
+    },
+    {
+        "vid": "I7NrVwm3apg",
+        "tags": "Random Forest,K Nearest Neighbours,Linear Regression"
+    },
+    {
+        "vid": "Lpr__X8zuE8",
+        "tags": "Perceptron,Learning Rate,Splitting Criteria"
+    },
+    {
+        "vid": "0p0o5cmgLdE",
+        "tags": ""
+    },
+    {
+        "vid": "nl7kDPYD20A",
+        "tags": "Machine Learning"
+    },
+    {
+        "vid": "mQaAPoRGOcs",
+        "tags": "Training and Validation,Decision Trees,Unsupervised Learning"
+    },
+    {
+        "vid": "sooj-_bXWgk",
+        "tags": "Principal Component Analysis"
+    }
+]

@@ -16,13 +16,17 @@ fp = open("data/ml-terms.txt")
 corpus =  fp.read().splitlines()
 corpus_embeddings = embedder.encode(corpus, convert_to_tensor=True)
 
+red5 = redis.Redis(host='localhost', port=6379, db=5,encoding='utf-8',decode_responses=True)
 red6 = redis.Redis(host='localhost', port=6379, db=6,encoding='utf-8',decode_responses=True)
 
 
-def process(file_name):
-    fp = open(file_name)
-    queries =  fp.read().splitlines()
-    idx=len("data-vid/")
+def process(vid):
+    
+    chapters = red5.get(vid)
+    if(chapters is None):
+        return
+    queries=chapters.splitlines()
+    print(queries)
     tags=set()
     for query in queries:
         #print(f"\n{query}")
@@ -36,19 +40,21 @@ def process(file_name):
                 match=corpus[hit['corpus_id']]
                 #print(match)
                 tags.add(match)
-                red6.sadd(file_name,match)
+                red6.sadd(vid,match)
                 #print(f"{hit['score']:.2f}")
 
 
     #print(tags)
-    
+    print("**************")
     print(",".join(list(tags)))
     print("\n")
 
 
 
-import glob,os
-os.chdir("data-vid")
-for f in glob.glob('*'):
-    print(f)
-    process(f)
+fp=open("data/vids.txt")
+lines = fp.read().splitlines()
+for line in lines[:500]:
+    vid=line.strip()
+    if(red6.exists(vid)):
+        continue
+    process(vid)
