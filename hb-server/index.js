@@ -5,13 +5,23 @@ const MongoClient = require('mongodb').MongoClient;
 
 
 app.set('view engine', 'hbs');
-app.engine('hbs',  ehbs.engine({ defaultLayout: 'main',exturl: '.hbs'}));
+app.engine('hbs',  ehbs.engine({ defaultLayout: 'main2',exturl: '.hbs'}));
 app.use(express.static('public'))
+
+
+Array.prototype.extend = function (other_array) {
+    /* You should include a test to check whether other_array really is an array */
+    other_array.forEach(function(v) {this.push(v)}, this);
+}
+
+var urlinfo=[];
 
 
 
 // connect to the db and start the express server
 let db;
+
+ 
 
 const url =  'mongodb://bookgist.in:27017/';
 
@@ -26,89 +36,40 @@ MongoClient.connect(url, (err, database) => {
   });
 });
 
+all_vids=[]
+function parse(result)
+{
+  var length = result.length;
+  console.log("LEN"+length);
+  for (var i = 0; i < length; i++) {
+      //console.log(result[i]['vids']);
+      all_vids.extend(result[i]['vids'])
 
-fakeApi = () => {
-return [];
-
-
+  }
+ 
 }
 
 app.get('/', (req, res) => {
     res.send("hello world");
 });
 
+
 app.get('/test', (req, res) => {
 
   var dbo = db.db("textgen");
   var keyphrase = req.query.keyphrase;
   console.log(keyphrase);
-  //var db_query = { phrase: "Clustering + Machine Learning" };
-  var db_query={phrase: keyphrase}
-  dbo.collection("phrase_urls").find(db_query).toArray(function(err, result) {
+  keyphrase="basic-statistics"
+  var db_query={"category": keyphrase}
+  dbo.collection("group_vids").find(db_query).toArray(function(err, result) {
     if (err) throw err;
-    //console.log(result);
-    res.render('main', {layout: 'index', url_cards: result, listExists: true});
+    console.log(result);
+    parse(result)
+    console.log(all_vids);
+    res.render('main', {layout: 'index', url_cards: all_vids, listExists: true});
 
    });
 
 });
-
-
-/*
-
-app.get('/slug_phrases', (req, res) => {
-
-  var dbo = db.db("textgen");
-  var slug = req.query.slug;
-  console.log(keyphrase);
-  var db_query={slug: slug}
-  dbo.collection("slug_phrases").find(db_query).toArray(function(err, result) {
-    if (err) throw err;
-    //console.log(result);
-    res.render('main', {layout: 'index', url_cards: result, listExists: true});
-
-   });
-
-});
-*/
-
-const linkPreviewGenerator = require("link-preview-generator");
-
-
-function on_success(data) {
-  if(data==null)
-    return
-  console.log(data);
-  var dbo = db.db("textgen");
-
-  dbo.collection("urlmaster").insertOne(data, function(err, res) {  
-    if (err) {console.log("Error inserting"+data)}
-    else console.log("1 record inserted"+data);  
-  
-  }); 
-} 
-
-
-async function gen_preview(the_url){
-
-   try{
-       const previewData = await linkPreviewGenerator(the_url);
-       //console.log(previewData);
-       previewData["_id"]=the_url;
-       return previewData;
-    }
-    catch(err) {
-       console.log("IGN"+the_url);
-       return null;
-    }
-}
-
-app.get('/urlinfo', (req, res) => {
-  var tmp = req.query.url_param;
-
-  //tmp="https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/sampling-observational-studies/e/identifying-population-sample"
-  gen_preview(tmp).then(on_success);
-  res.send("queued");   
-
-});
-                                                                           
+ 
+ 
