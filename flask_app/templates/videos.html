@@ -19,9 +19,9 @@
              {% for item in vid_list %}
              
              <li>
-                <a href="javascript:void();" onClick="document.getElementById('vid_frame_0').src='https://youtube.com/embed/{{item['vid']}}?fs=1&autoplay=1&rel=0&showinfo=0&autohide=1'">
-                  <span class="vid-thumb"><img src="https://img.youtube.com/vi/{{item['vid']}}/hqdefault.jpg" /></span>
-                   <div class="desc">{{item['tags']}} </div>
+                <a href="javascript:void();" onClick="document.getElementById('vid_frame_0').src='https://youtube.com/embed/{{item}}?fs=1&autoplay=1&rel=0&showinfo=0&autohide=1'">
+                  <span class="vid-thumb"><img src="https://img.youtube.com/vi/{{item}}/hqdefault.jpg" /></span>
+                   <div class="desc">{{item}} </div>
 
                 </a>
               </li>
