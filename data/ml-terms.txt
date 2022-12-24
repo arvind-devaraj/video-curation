@@ -223,3 +223,6 @@ Random Sampling
 Standard Error
 Recommender Systems
 KNIME
+Model Evaluation
+Apriori algorithm
+
