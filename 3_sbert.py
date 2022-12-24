@@ -36,12 +36,12 @@ def process(vid):
         hits = util.semantic_search(query_embedding, corpus_embeddings, top_k=1)
         hits = hits[0]      #Get the hits for the first query
         for hit in hits:
-            if(hit['score']>.5):
+            if(hit['score']>.6):
                 match=corpus[hit['corpus_id']]
-                #print(match)
+                print(match)
                 tags.add(match)
                 red6.sadd(vid,match)
-                #print(f"{hit['score']:.2f}")
+                print(f"{hit['score']:.2f}")
 
 
     #print(tags)
@@ -55,6 +55,6 @@ fp=open("data/vids.txt")
 lines = fp.read().splitlines()
 for line in lines[:500]:
     vid=line.strip()
-    if(red6.exists(vid)):
-        continue
+    #if(red6.exists(vid)):
+    #    continue
     process(vid)
