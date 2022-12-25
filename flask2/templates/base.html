@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ the_title }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Droid+Serif|Source+Sans+Pro" rel="stylesheet">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+	<script>
+
+		var tag = document.createElement('script');
+		tag.src = "https://www.youtube.com/iframe_api";
+		var firstScriptTag = document.getElementsByTagName('script')[0];
+		firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+		var player;
+
+		function onYouTubeIframeAPIReady() {
+		  player = new YT.Player('player', {
+		    height: '315',
+		    width: '560',
+		    videoId: '92UXfEIc4lI',
+		    events: {
+		      'onReady': function() {
+		        $(".video-thumb").click(function() {
+		          var $this = $(this);
+		          console.log($this);
+		          if (!$this.hasClass("active")) {
+		            player.loadVideoById($this.attr("data-video"));
+		                        $this.addClass("active").siblings().removeClass("active");
+		          }
+		        });
+		      }
+		    }
+		  });
+		}
+	 </script>
+</head>
+
+<body>
+
+<div id="container">
+
+  <!-- Jinja2 directives: page contents will go between them -->
+  {% block body %}
+  {% endblock %}
+
+  
+
+</div>
+
+
+
+
+</body>
+</html>

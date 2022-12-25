@@ -1,0 +1,33 @@
+ 
+
+{% extends 'base.html' %}
+
+{% block body %}
+
+ <div class="container">
+  <div class="video-player">
+    <div class="video-player__playing">
+      <div class="embed-container">
+        <div id="player"></div>
+      </div>
+    </div>
+    <div class="video-player__thumbs">
+
+        {% for item in vid_list %}
+            <span  > {{item}} </span>
+            <br>
+            {% for val in vid_list[item] %}
+
+
+            <div data-video="{{val}}" class="video-thumb"><img src="https://img.youtube.com/vi/{{val}}/hqdefault.jpg"></div>
+            {% endfor %}
+      {% endfor %}
+    
+    </div>
+  </div>
+</div> 
+   
+ 
+
+
+{% endblock %}
