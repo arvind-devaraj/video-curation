@@ -19,8 +19,18 @@ def index():
 @app.route('/test', methods=['POST'])
 def test():
     print(request.json)
-    items=request.json["tags"]
-    return render_template('videos.html',main_vid="", vid_list=items)
+    tags=request.json["tags"]
+    fp = open("../tv.json")
+    items=json.load(fp)
+    new_items={}
+    for item in items:
+        if (item in tags):
+            new_items[item]=items[item]
+
+    print(new_items)
+
+
+    return render_template('videos.html',main_vid="", vid_list=new_items)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
+    app.run(host='0.0.0.0',debug=True)
