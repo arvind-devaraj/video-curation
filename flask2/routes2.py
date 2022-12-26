@@ -16,5 +16,11 @@ def index():
     return render_template('videos.html',main_vid="", vid_list=items)
 
 
+@app.route('/test', methods=['POST'])
+def test():
+    print(request.json)
+    items=request.json["tags"]
+    return render_template('videos.html',main_vid="", vid_list=items)
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
