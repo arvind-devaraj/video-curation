@@ -1,334 +1,206 @@
 [
     {
-        "vid": "zUnC1CV4FAc",
-        "tags": "Normal Distribution"
+        "vid": "Zxf24EDKVq4",
+        "tags": "Business Intelligence,Predictive Analysis,Artificial Intelligence"
     },
     {
-        "vid": "lZtyxpHsBlg",
-        "tags": "RSquared"
+        "vid": "xpZFNIOaQns",
+        "tags": "Hyperparameters,SageMaker,Fine-Tuning"
     },
     {
-        "vid": "8idr1WZ1A7Q",
-        "tags": "Binomial Distribution"
+        "vid": "rJmBhnLzjOM",
+        "tags": "Neural Networks"
     },
     {
-        "vid": "fqK4mchNlnY",
-        "tags": "Python,Decision Trees,Model Architecture"
+        "vid": "SHTOI0KtZnU",
+        "tags": ""
     },
     {
-        "vid": "kytMd3_x9RU",
-        "tags": "Batch size,Learning Rate,Gradient Descent"
+        "vid": "LlKAna21fLE",
+        "tags": "Dimensionality Reduction,Word Embeddings"
+    },
+    {
+        "vid": "KOBmBjlMVAE",
+        "tags": ""
+    },
+    {
+        "vid": "fkf4IBRSeEc",
+        "tags": "Eigen vectors and values,Types of Averages,Principal Component Analysis"
+    },
+    {
+        "vid": "Zf1MLaWIOfQ",
+        "tags": "Statistics,Statistical Tests,Random Sampling"
+    },
+    {
+        "vid": "wNdYpD2YhSk",
+        "tags": "Regularization,Overfitting"
+    },
+    {
+        "vid": "ElwVHavh1N8",
+        "tags": "Random Sampling,Information Gain,Rules for probability"
+    },
+    {
+        "vid": "hAnfnc2dWBs",
+        "tags": "Feature Engineering,Dimensionality Reduction,Supervised Learning"
+    },
+    {
+        "vid": "rPBFvvw2OM4",
+        "tags": "Regularization,Linear Regression,Underfitting"
+    },
+    {
+        "vid": "kA4mD3y4aqA",
+        "tags": "Filter Method,Feature Selection"
+    },
+    {
+        "vid": "EqLBAmtKMnQ",
+        "tags": ""
+    },
+    {
+        "vid": "N6BghzuFLIg",
+        "tags": "Types of Averages,Python,Data Visualization"
+    },
+    {
+        "vid": "NRCZJUviZN0",
+        "tags": "Regularization"
+    },
+    {
+        "vid": "KHpM3UXdMxM",
+        "tags": "BERT,Attention Mechanism,Fine-Tuning"
+    },
+    {
+        "vid": "uQmYZTTqDC0",
+        "tags": "Bayes Rule,Random Sampling,Rules for probability"
+    },
+    {
+        "vid": "9r7FIXEAGvs",
+        "tags": "Naive Bayes,Entropy,Probability"
+    },
+    {
+        "vid": "FpDsDn-fBKA",
+        "tags": ""
+    },
+    {
+        "vid": "aOIHiclLDrc",
+        "tags": ""
+    },
+    {
+        "vid": "6HuKFh0BatQ",
+        "tags": "Inverse Document Frequency"
+    },
+    {
+        "vid": "K20lVDVjPn4",
+        "tags": ""
+    },
+    {
+        "vid": "0pP4EwWJgIU",
+        "tags": "Logistic Regression,Bias Variance Tradeoff,Model Evaluation"
+    },
+    {
+        "vid": "yFFp9RYpOb0",
+        "tags": ""
+    },
+    {
+        "vid": "QyrUentbkvw",
+        "tags": "Word Embeddings"
+    },
+    {
+        "vid": "6muxKPBtTx0",
+        "tags": ""
+    },
+    {
+        "vid": "E60J8fXfMwY",
+        "tags": "Gradient Descent"
+    },
+    {
+        "vid": "IVv5XAl2y3M",
+        "tags": ""
+    },
+    {
+        "vid": "A_ZKMsZ3f3o",
+        "tags": "False Positives,ROC Curve"
+    },
+    {
+        "vid": "L_xBe7MbPwk",
+        "tags": "Logistic Regression,Binary Classification,Linear Regression"
+    },
+    {
+        "vid": "eh-muwX6qbQ",
+        "tags": "Correlation,Overfitting,Linear Regression"
+    },
+    {
+        "vid": "JGeTcRfKgBo",
+        "tags": "Bayes Rule"
     },
     {
         "vid": "jmLid2x9eKg",
-        "tags": "K Nearest Neighbours,Machine Learning,Linear Discriminant Analysis"
+        "tags": "Logistic Regression,K Nearest Neighbours,Machine Learning"
     },
     {
-        "vid": "7_YzyMYC2zM",
-        "tags": "K Nearest Neighbours,Overfitting,Scikit-learn"
+        "vid": "wkxgZirbCr4",
+        "tags": ""
     },
     {
-        "vid": "EUiIydNBIbE",
-        "tags": "Confusion Matrix,Precision,ROC Curve"
+        "vid": "8Oog7TXHvFY",
+        "tags": "Confusion Matrix,False Positives,Precision"
     },
     {
-        "vid": "wpQiEHYkBys",
-        "tags": "Confusion Matrix,Binary Classification,Supervised Learning"
+        "vid": "y9AK1YKRoLg",
+        "tags": ""
     },
     {
-        "vid": "EokL7E6o1AE",
-        "tags": "SVM"
+        "vid": "soZRfdnkUQg",
+        "tags": "Frequency distribution,Combinations and permutations"
     },
     {
-        "vid": "_M7P9VhmJXE",
-        "tags": "Machine Learning,Perceptron,Feature Extraction"
+        "vid": "LejHYUf1mkg",
+        "tags": ""
     },
     {
-        "vid": "YB7XXDXIusg",
-        "tags": "SVM,Text Extraction"
+        "vid": "MsD28INtSv8",
+        "tags": "Splitting Criteria,Training and Validation,Regression Methods"
     },
     {
-        "vid": "xoP4h09grBM",
-        "tags": "Hyperparameters"
+        "vid": "w-eWTxbRQcU",
+        "tags": "Random Forest"
     },
     {
         "vid": "sDv4f4s2SB8",
         "tags": "Loss Functions,Gradient Descent,Stochastic gradient descent"
     },
     {
-        "vid": "DbzN_gMh3Mw",
-        "tags": "Singular Value Decomposition,Inverse Document Frequency,TFIDF"
-    },
-    {
-        "vid": "4DI68P4hicQ",
-        "tags": "Singular Value Decomposition,Confusion Matrix,Precision"
-    },
-    {
-        "vid": "j6VSAsKAj98",
-        "tags": "Python"
-    },
-    {
-        "vid": "Rjgba38dgDY",
-        "tags": "Decision Trees,Regression Trees"
-    },
-    {
-        "vid": "wNBaNhvL4pg",
-        "tags": "Neural Networks"
-    },
-    {
-        "vid": "YX4xRIQ84Z0",
-        "tags": "Inverse Document Frequency,TFIDF"
-    },
-    {
-        "vid": "7WfoYl-EPtI",
-        "tags": "Data Mining,Entity Extraction,Text Extraction"
-    },
-    {
-        "vid": "uKPBkendlxw",
+        "vid": "LnlW9gdjWfc",
         "tags": ""
     },
     {
-        "vid": "zS7C5Xhioc4",
-        "tags": "Deep Learning,Transfer learning"
+        "vid": "AhE8RhPGH1A",
+        "tags": "Hyperparameters,Tensorflow,Activation Function"
     },
     {
-        "vid": "wL49k_MVgZE",
-        "tags": "Word Embeddings,Bag of words,Text Extraction"
-    },
-    {
-        "vid": "vyOgWhwUmec",
-        "tags": "Word Embeddings,Bag of words"
-    },
-    {
-        "vid": "YBBnzN-iZZg",
-        "tags": "Deep Learning,Recurrent Neural Network,LSTM"
-    },
-    {
-        "vid": "1L3JlWsSVrg",
-        "tags": "Recommender Systems,Word Embeddings,NLTK"
-    },
-    {
-        "vid": "1ePkOSGoIFI",
-        "tags": ""
-    },
-    {
-        "vid": "et-Gcakzb4Q",
-        "tags": ""
-    },
-    {
-        "vid": "Lg49whvL3S8",
-        "tags": "Grid Search,Processing Pipelines,Cross Validation"
-    },
-    {
-        "vid": "1qHR9G8ojQg",
-        "tags": "Word Embeddings,Convolutional Neural Networks,Recurrent Neural Network"
-    },
-    {
-        "vid": "N6BghzuFLIg",
-        "tags": "Python,Data Visualization,Spread of Data"
-    },
-    {
-        "vid": "1vGn4xWAwXI",
-        "tags": "Naive Bayes"
-    },
-    {
-        "vid": "zrT2qETJilw",
-        "tags": "Linear Regression,Loss Functions,Feature Extraction"
-    },
-    {
-        "vid": "-boCMDouF2g",
-        "tags": ""
-    },
-    {
-        "vid": "0E0DrKvXi-Y",
-        "tags": "Linear Regression,Unsupervised Learning,Logistic Regression"
-    },
-    {
-        "vid": "W0TcVrI_vRg",
-        "tags": ""
-    },
-    {
-        "vid": "Zxf24EDKVq4",
-        "tags": "Machine Learning,Predictive Analysis,Artificial Intelligence"
-    },
-    {
-        "vid": "6xkjElOGXV4",
-        "tags": ""
-    },
-    {
-        "vid": "ilzFiK0nAh8",
-        "tags": ""
-    },
-    {
-        "vid": "4TcUf9OHGR8",
-        "tags": "Word Embeddings,Pre-training ,Fine-Tuning"
-    },
-    {
-        "vid": "qZ1cuyLPRyk",
-        "tags": ""
-    },
-    {
-        "vid": "XNKeayZW4dY",
-        "tags": "Keras,Neural Networks"
-    },
-    {
-        "vid": "MQ5cGjMsUPc",
-        "tags": ""
-    },
-    {
-        "vid": "Jup65F24WlY",
-        "tags": "Python"
-    },
-    {
-        "vid": "4I3gS1cmqe4",
-        "tags": ""
-    },
-    {
-        "vid": "TQQlZhbC5ps",
-        "tags": "Transformer Architecture,Recurrent Neural Network"
-    },
-    {
-        "vid": "xI0HHN5XKDo",
-        "tags": "Pre-training "
-    },
-    {
-        "vid": "iMIWee_PXl8",
-        "tags": "Regularization"
-    },
-    {
-        "vid": "9_eZHt2qJs4",
-        "tags": ""
-    },
-    {
-        "vid": "mld0TnA2jEs",
-        "tags": "Random Forest,Decision Trees"
-    },
-    {
-        "vid": "UaptUhOushw",
-        "tags": "Hypothesis Test,Statistical Tests"
-    },
-    {
-        "vid": "XbHeCL_8UhA",
-        "tags": "Estimation,Confidence Interval,Statistics"
-    },
-    {
-        "vid": "3XiJrn_8F9Q",
-        "tags": ""
-    },
-    {
-        "vid": "mkDzmI7YOx0",
-        "tags": ""
-    },
-    {
-        "vid": "wDxTWp3KMMs",
-        "tags": "Random Sampling,Neural Networks,Training and Validation"
-    },
-    {
-        "vid": "QfVMewhzJWg",
-        "tags": ""
-    },
-    {
-        "vid": "Q5jtAIVIPPw",
-        "tags": ""
-    },
-    {
-        "vid": "XepXtl9YKwc",
-        "tags": "Normal Distribution"
-    },
-    {
-        "vid": "q71Niz856KE",
-        "tags": "Clustering"
-    },
-    {
-        "vid": "cn4S3QqEBRg",
-        "tags": "Hypothesis testing,Random Sampling,Hypothesis Test"
-    },
-    {
-        "vid": "dRJGyhS6gA0",
-        "tags": "Machine Learning"
-    },
-    {
-        "vid": "93fPFOf547Q",
-        "tags": "Maximum Likelihood Estimation"
-    },
-    {
-        "vid": "RPtYRm2tboA",
-        "tags": ""
-    },
-    {
-        "vid": "1NxnPkZM9bc",
-        "tags": ""
-    },
-    {
-        "vid": "841I7-imlVo",
-        "tags": "Random Forest,Bagging,Regression Trees"
-    },
-    {
-        "vid": "r5C3TUIw6Zk",
-        "tags": "Bagging"
+        "vid": "0_lKUPYEYyY",
+        "tags": "Unsupervised Learning,Semi-supervised learning"
     },
     {
         "vid": "_tEek2jPn-4",
-        "tags": "Estimation,Bias,Probability"
+        "tags": "Bias,Confidence Interval,Estimation"
     },
     {
-        "vid": "az60jS7MQhU",
-        "tags": "Cross Validation"
-    },
-    {
-        "vid": "k8AW4Zfq3U8",
-        "tags": "Loss function"
-    },
-    {
-        "vid": "cnpKC49YYB4",
-        "tags": "False Positives,ROC Curve"
+        "vid": "W-0-u6XVbE4",
+        "tags": "Underfitting,Overfitting"
     },
     {
         "vid": "ms-Ooh9mjiE",
-        "tags": "Validation and Test Sets,Generalization,Model Architecture"
+        "tags": "Generalization,Model Architecture,Validation and Test Sets"
     },
     {
-        "vid": "qqZTIDaQwho",
-        "tags": "Model Architecture"
-    },
-    {
-        "vid": "RXcxsVLkkFI",
-        "tags": ""
-    },
-    {
-        "vid": "wNkB2WDllyI",
-        "tags": "Random Forest,ROC Curve"
+        "vid": "ySI5P37Xf_k",
+        "tags": "Statistics,Machine Learning,Python"
     },
     {
         "vid": "7o9TMQAHgkQ",
-        "tags": "Machine Learning,Clustering,Speech Recognition"
-    },
-    {
-        "vid": "RSQsMYax_BU",
-        "tags": ""
-    },
-    {
-        "vid": "TY3MS9l5xCU",
-        "tags": ""
-    },
-    {
-        "vid": "3x4XLq9JfS8",
-        "tags": ""
-    },
-    {
-        "vid": "Ne1cs9bBygs",
-        "tags": ""
+        "tags": "Clustering,Machine Learning,Speech Recognition"
     },
     {
         "vid": "bJVtvrE3n4w",
-        "tags": ""
-    },
-    {
-        "vid": "ZQUxrnFhhAI",
-        "tags": ""
-    },
-    {
-        "vid": "i0ejjl7Nssg",
         "tags": ""
     },
     {
@@ -336,1667 +208,111 @@
         "tags": ""
     },
     {
-        "vid": "wCZ1VEmVjVo",
-        "tags": ""
+        "vid": "7YuTmLvs1Dc",
+        "tags": "Unsupervised Learning,Bivariate Data Analysis,Decision Trees"
     },
     {
-        "vid": "nodQ2s0CUbI",
-        "tags": ""
+        "vid": "qDcl-FRnwSU",
+        "tags": "Multiclass Classification,Binary Classification,Information Gain"
     },
     {
-        "vid": "UhY5vPfQIrA",
-        "tags": ""
+        "vid": "gc56tEmbZ1E",
+        "tags": "Python,Machine Learning,Tensorflow"
     },
     {
-        "vid": "kPBz2c3zz-4",
-        "tags": "Data Preprocessing,Data Mining,Model Architecture"
-    },
-    {
-        "vid": "dgt6IfEXgDk",
-        "tags": "Machine Learning,Python,Clustering"
-    },
-    {
-        "vid": "Zf1MLaWIOfQ",
-        "tags": "Statistics,Random Sampling,False Negatives"
-    },
-    {
-        "vid": "tTAieUcNHdY",
-        "tags": "Machine Learning,Linear Regression,Normal Distribution"
-    },
-    {
-        "vid": "yXGUwE-LHTQ",
-        "tags": ""
-    },
-    {
-        "vid": "f4voKCjhMhQ",
-        "tags": "Confusion Matrix,ROC Curve,Hyperparameters"
-    },
-    {
-        "vid": "qoyp8pBtCZ0",
-        "tags": ""
-    },
-    {
-        "vid": "A6kO2HD-LHA",
-        "tags": ""
+        "vid": "k6QWYwOvJs0",
+        "tags": "Random Forest,K-Fold Cross Validation,Linear Regression"
     },
     {
         "vid": "Wj5ole72Q9g",
         "tags": ""
     },
     {
-        "vid": "BI2f6Mefhjo",
-        "tags": ""
+        "vid": "IpGxLWOIZy4",
+        "tags": "Logistic Regression,Hierarchical Clustering,Decision Trees"
     },
     {
-        "vid": "jOBo03OOVQM",
-        "tags": ""
+        "vid": "CbXj7091OWA",
+        "tags": "Training and Validation,Backpropagation,Pre-training "
     },
     {
-        "vid": "Liff_GA74EI",
-        "tags": ""
+        "vid": "3EZpHAsTRc8",
+        "tags": "Semi-supervised learning,Binary Classification,Supervised Learning"
     },
     {
-        "vid": "SnmXndIus9c",
-        "tags": ""
-    },
-    {
-        "vid": "zII6KLR4Lb4",
-        "tags": ""
-    },
-    {
-        "vid": "3wi0lJPfLUY",
-        "tags": ""
-    },
-    {
-        "vid": "IU5fuoYBTAM",
-        "tags": ""
-    },
-    {
-        "vid": "ZVZHknMJ4N0",
-        "tags": ""
-    },
-    {
-        "vid": "soZRfdnkUQg",
-        "tags": ""
-    },
-    {
-        "vid": "soZRfdnkUQg",
-        "tags": ""
-    },
-    {
-        "vid": "VQq8DwEJeoU",
-        "tags": ""
-    },
-    {
-        "vid": "ul2zLF61CyY",
-        "tags": ""
-    },
-    {
-        "vid": "ge-JBfqKCBc",
-        "tags": ""
-    },
-    {
-        "vid": "EqLBAmtKMnQ",
-        "tags": ""
-    },
-    {
-        "vid": "kA4mD3y4aqA",
-        "tags": ""
-    },
-    {
-        "vid": "cw4qG9ePZ9Y",
-        "tags": ""
-    },
-    {
-        "vid": "wjKvyk8xStg",
-        "tags": ""
-    },
-    {
-        "vid": "tQi7vanY_RU",
-        "tags": ""
-    },
-    {
-        "vid": "loNcrMjYh64",
-        "tags": ""
-    },
-    {
-        "vid": "06-AZXmwHjo",
-        "tags": ""
-    },
-    {
-        "vid": "4EOCQJgqAOY",
-        "tags": ""
-    },
-    {
-        "vid": "LmT3xyTHNR0",
-        "tags": ""
-    },
-    {
-        "vid": "wjILv3-UGM8",
-        "tags": ""
-    },
-    {
-        "vid": "w-eWTxbRQcU",
-        "tags": ""
-    },
-    {
-        "vid": "OByOgGXq76A",
-        "tags": ""
-    },
-    {
-        "vid": "YYjvkSJoui4",
-        "tags": ""
-    },
-    {
-        "vid": "REnBIx6IfUo",
-        "tags": ""
-    },
-    {
-        "vid": "yc6VvRVzSJI",
-        "tags": ""
-    },
-    {
-        "vid": "qAv_QqmEk78",
-        "tags": ""
-    },
-    {
-        "vid": "898mey_dKSs",
-        "tags": ""
-    },
-    {
-        "vid": "-WXm2h_2_H0",
-        "tags": ""
-    },
-    {
-        "vid": "CD58mco2XqA",
-        "tags": ""
-    },
-    {
-        "vid": "PYxne5D_32c",
-        "tags": ""
-    },
-    {
-        "vid": "EEUXKG97YRw",
-        "tags": ""
-    },
-    {
-        "vid": "egTNM8NSa2k",
-        "tags": ""
-    },
-    {
-        "vid": "EQASA00NQgM",
-        "tags": ""
-    },
-    {
-        "vid": "65UJPA10dW8",
-        "tags": ""
-    },
-    {
-        "vid": "wGUV_XqchbE",
-        "tags": ""
-    },
-    {
-        "vid": "8FCDpFhd1zk",
-        "tags": ""
-    },
-    {
-        "vid": "JpTYbmpoHT0",
-        "tags": ""
-    },
-    {
-        "vid": "4QIWJVVWJdQ",
-        "tags": ""
-    },
-    {
-        "vid": "JvvEuBiFjB4",
-        "tags": ""
-    },
-    {
-        "vid": "F1eOEAvKq3g",
-        "tags": ""
-    },
-    {
-        "vid": "m2a2K4lprQw",
-        "tags": ""
-    },
-    {
-        "vid": "QZJLTeeaftI",
-        "tags": ""
-    },
-    {
-        "vid": "4zuIPwnQVdM",
-        "tags": ""
-    },
-    {
-        "vid": "77V4VJJDPWw",
-        "tags": ""
-    },
-    {
-        "vid": "_M_nF7aTQzQ",
-        "tags": ""
-    },
-    {
-        "vid": "CqQyrkEvh_8",
-        "tags": ""
-    },
-    {
-        "vid": "X4Ic1ui3jD0",
-        "tags": ""
-    },
-    {
-        "vid": "TudQZtgpoHk",
-        "tags": ""
-    },
-    {
-        "vid": "MLYwZ-i362Q",
-        "tags": ""
-    },
-    {
-        "vid": "_T8LGqJtuGc",
-        "tags": ""
-    },
-    {
-        "vid": "uya_MHnoKa0",
-        "tags": ""
-    },
-    {
-        "vid": "c_55gZfUK1E",
-        "tags": ""
-    },
-    {
-        "vid": "pxckixOlguA",
-        "tags": ""
-    },
-    {
-        "vid": "RETZus4XBNM",
-        "tags": ""
-    },
-    {
-        "vid": "4PXAztQtoTg",
-        "tags": ""
-    },
-    {
-        "vid": "9fOWryQq9J8",
-        "tags": ""
-    },
-    {
-        "vid": "sgQAhG5Q7iY",
-        "tags": ""
-    },
-    {
-        "vid": "sgQAhG5Q7iY",
-        "tags": ""
-    },
-    {
-        "vid": "qlKZKN7il7c",
-        "tags": ""
-    },
-    {
-        "vid": "AhE8RhPGH1A",
-        "tags": ""
-    },
-    {
-        "vid": "_ZQ-lQrK9Rg",
-        "tags": ""
-    },
-    {
-        "vid": "KLPtEBokqQ0",
-        "tags": ""
-    },
-    {
-        "vid": "5tvmMX8r_OM",
-        "tags": ""
-    },
-    {
-        "vid": "K-Phci4v3lY",
-        "tags": ""
-    },
-    {
-        "vid": "CBipYkwjFWM",
-        "tags": ""
-    },
-    {
-        "vid": "dpoN3eJgROM",
-        "tags": ""
-    },
-    {
-        "vid": "OB1reY6IX-o",
-        "tags": ""
-    },
-    {
-        "vid": "ZEq0ivR_pzg",
-        "tags": ""
-    },
-    {
-        "vid": "kIKBhIAit5I",
-        "tags": ""
-    },
-    {
-        "vid": "pXGBHV3y8rs",
-        "tags": ""
-    },
-    {
-        "vid": "p52Nep7CBdQ",
-        "tags": ""
-    },
-    {
-        "vid": "8y-o1zWSXR8",
-        "tags": ""
-    },
-    {
-        "vid": "6Jz67_xNk7U",
-        "tags": ""
-    },
-    {
-        "vid": "_9dsx4tyzJ8",
-        "tags": ""
-    },
-    {
-        "vid": "FKlPCK1uFrc",
-        "tags": ""
-    },
-    {
-        "vid": "g7Ej9yQ_Eis",
-        "tags": ""
-    },
-    {
-        "vid": "oVeMquBjNYs",
-        "tags": ""
-    },
-    {
-        "vid": "_m8v77qbkBA",
-        "tags": ""
-    },
-    {
-        "vid": "OXQtmRtgEF4",
-        "tags": ""
-    },
-    {
-        "vid": "0IjQ0SyQEOI",
-        "tags": ""
-    },
-    {
-        "vid": "tVsVmy6w7FE",
-        "tags": ""
-    },
-    {
-        "vid": "oR670Txwh88",
-        "tags": ""
-    },
-    {
-        "vid": "uI19wIdzh9M",
-        "tags": ""
-    },
-    {
-        "vid": "cNDA60YLVdQ",
-        "tags": ""
-    },
-    {
-        "vid": "KOBmBjlMVAE",
-        "tags": ""
-    },
-    {
-        "vid": "kLDTbavcmd0",
-        "tags": ""
-    },
-    {
-        "vid": "P1jUUdtckiY",
-        "tags": ""
-    },
-    {
-        "vid": "Y0ECToJ8KJY",
-        "tags": ""
-    },
-    {
-        "vid": "P_q0tkYqvSk",
-        "tags": ""
-    },
-    {
-        "vid": "IUylp47hNA0",
-        "tags": ""
-    },
-    {
-        "vid": "H1OP0XOREh4",
-        "tags": ""
-    },
-    {
-        "vid": "MDL384gsAk0",
-        "tags": ""
-    },
-    {
-        "vid": "LBemXHm_Ops",
-        "tags": ""
-    },
-    {
-        "vid": "uZeDTwWcnuY",
-        "tags": ""
-    },
-    {
-        "vid": "0GoPTJE7Vms",
-        "tags": ""
-    },
-    {
-        "vid": "wkxgZirbCr4",
-        "tags": ""
-    },
-    {
-        "vid": "s5zuplW8ua8",
-        "tags": ""
-    },
-    {
-        "vid": "QpwTEsO51tU",
-        "tags": ""
-    },
-    {
-        "vid": "BlndymsWGX0",
-        "tags": ""
-    },
-    {
-        "vid": "cWZLPv4ZJhE",
-        "tags": ""
-    },
-    {
-        "vid": "DCk-p6MsiWA",
-        "tags": ""
-    },
-    {
-        "vid": "PlQZepYEppQ",
-        "tags": ""
-    },
-    {
-        "vid": "jSaU_iDB1Ds",
-        "tags": ""
-    },
-    {
-        "vid": "a0sqE7y53W8",
-        "tags": ""
-    },
-    {
-        "vid": "DLw8b2hIKHQ",
-        "tags": ""
-    },
-    {
-        "vid": "gm4v_SGQx3I",
-        "tags": ""
-    },
-    {
-        "vid": "xXU9Xoc9qK0",
-        "tags": ""
-    },
-    {
-        "vid": "2e4fgSgn64Q",
-        "tags": ""
-    },
-    {
-        "vid": "rEXwTSbocag",
-        "tags": ""
-    },
-    {
-        "vid": "bkLHszLlH34",
-        "tags": ""
-    },
-    {
-        "vid": "8Uilw9t-syQ",
-        "tags": ""
-    },
-    {
-        "vid": "qj7HH0PCqIE",
-        "tags": ""
-    },
-    {
-        "vid": "elTJQ8NGhE0",
-        "tags": ""
-    },
-    {
-        "vid": "YPZVGSRmjLk",
-        "tags": ""
-    },
-    {
-        "vid": "EFk21H6Q1ew",
-        "tags": ""
-    },
-    {
-        "vid": "Joxm04J1Cqg",
-        "tags": ""
-    },
-    {
-        "vid": "F9Cx85r5FOU",
-        "tags": ""
-    },
-    {
-        "vid": "m7CPhQAyP4o",
-        "tags": ""
-    },
-    {
-        "vid": "4MMPHtn3cVE",
-        "tags": ""
-    },
-    {
-        "vid": "u2zsY-2uZiE",
-        "tags": ""
-    },
-    {
-        "vid": "9lRv01HDU0s",
-        "tags": ""
-    },
-    {
-        "vid": "B42n3Pc-N2A",
-        "tags": ""
-    },
-    {
-        "vid": "9fcTq8PDWWA",
-        "tags": ""
-    },
-    {
-        "vid": "Fqm0ovt5fjY",
-        "tags": ""
-    },
-    {
-        "vid": "bN4UuCBdpZc",
-        "tags": ""
-    },
-    {
-        "vid": "NEbbj68V-GQ",
-        "tags": ""
-    },
-    {
-        "vid": "NUn6WeFM5cM",
-        "tags": ""
-    },
-    {
-        "vid": "wi2FiyCoT8M",
-        "tags": ""
-    },
-    {
-        "vid": "wVRidHbwLB0",
-        "tags": ""
-    },
-    {
-        "vid": "Zrb-xhqPZF4",
-        "tags": ""
-    },
-    {
-        "vid": "JgXLoBvRALA",
-        "tags": ""
-    },
-    {
-        "vid": "VuaQKtygva4",
-        "tags": ""
-    },
-    {
-        "vid": "OgK8JFjkSto",
-        "tags": ""
-    },
-    {
-        "vid": "LejHYUf1mkg",
-        "tags": ""
-    },
-    {
-        "vid": "2O3vCltvicM",
-        "tags": ""
-    },
-    {
-        "vid": "lG4VkPoG3ko",
-        "tags": ""
-    },
-    {
-        "vid": "OgO1gpXSUzU",
-        "tags": ""
-    },
-    {
-        "vid": "rowWM-MijXU",
-        "tags": ""
-    },
-    {
-        "vid": "JfeB_n4zsRM",
-        "tags": ""
-    },
-    {
-        "vid": "yakg94HyWdE",
-        "tags": ""
-    },
-    {
-        "vid": "rW0B8o7JtFk",
-        "tags": ""
-    },
-    {
-        "vid": "3vZo0ApLz0A",
-        "tags": ""
-    },
-    {
-        "vid": "WNvOtwP_yf4",
-        "tags": ""
-    },
-    {
-        "vid": "9jW9G8MO4PQ",
-        "tags": ""
-    },
-    {
-        "vid": "5Z9OIYA8He8",
-        "tags": ""
-    },
-    {
-        "vid": "5rTb6AkKhds",
-        "tags": ""
-    },
-    {
-        "vid": "2RTD5569m38",
-        "tags": ""
-    },
-    {
-        "vid": "c5ish_bQetE",
-        "tags": ""
-    },
-    {
-        "vid": "CMUe26KVhew",
-        "tags": ""
-    },
-    {
-        "vid": "5amKlNtIoT0",
-        "tags": ""
-    },
-    {
-        "vid": "fsE9gzbf8Z4",
-        "tags": ""
-    },
-    {
-        "vid": "knTc-NQSjKA",
-        "tags": ""
-    },
-    {
-        "vid": "NOKOJWQ2_iE",
-        "tags": ""
-    },
-    {
-        "vid": "XcLO4f1i4Yo",
-        "tags": ""
-    },
-    {
-        "vid": "vemZtEM63GY",
-        "tags": ""
-    },
-    {
-        "vid": "YrhlQB3mQFI",
-        "tags": ""
-    },
-    {
-        "vid": "LnlW9gdjWfc",
-        "tags": ""
-    },
-    {
-        "vid": "IlTGoELs-Zg",
-        "tags": ""
-    },
-    {
-        "vid": "sbbYntt5CJk",
-        "tags": ""
-    },
-    {
-        "vid": "-1dYY43DRMA",
-        "tags": ""
-    },
-    {
-        "vid": "rGQ3JT6KS4M",
-        "tags": ""
-    },
-    {
-        "vid": "yTaxI1k2zgI",
-        "tags": ""
-    },
-    {
-        "vid": "pqNCD_5r0IU",
-        "tags": ""
-    },
-    {
-        "vid": "2aMYxUI0azk",
-        "tags": ""
-    },
-    {
-        "vid": "N1BjPk1smdg",
-        "tags": ""
-    },
-    {
-        "vid": "_hAVVULrZ0Q",
-        "tags": ""
-    },
-    {
-        "vid": "W-0-u6XVbE4",
-        "tags": ""
-    },
-    {
-        "vid": "EsDFiZPljYo",
-        "tags": ""
-    },
-    {
-        "vid": "pIzX7wk56iA",
-        "tags": ""
-    },
-    {
-        "vid": "j8080l9Pvic",
-        "tags": ""
-    },
-    {
-        "vid": "iG02TXW7K0U",
-        "tags": ""
-    },
-    {
-        "vid": "fJ53tIDbvTM",
-        "tags": ""
-    },
-    {
-        "vid": "h3SCNtJAcHQ",
-        "tags": ""
-    },
-    {
-        "vid": "f0RD7Zjvnvc",
-        "tags": ""
-    },
-    {
-        "vid": "udXjlvCFusc",
-        "tags": ""
-    },
-    {
-        "vid": "pli1K75PSa8",
-        "tags": ""
-    },
-    {
-        "vid": "Qz58vTa8-SY",
-        "tags": ""
-    },
-    {
-        "vid": "ylzmtKJnFko",
-        "tags": ""
-    },
-    {
-        "vid": "6zk6uQSuXqs",
-        "tags": ""
-    },
-    {
-        "vid": "BFaadIqWlAg",
-        "tags": ""
-    },
-    {
-        "vid": "JBw2Xd_krLc",
-        "tags": ""
-    },
-    {
-        "vid": "URdnFlZnlaE",
-        "tags": ""
+        "vid": "aDW44NPhNw0",
+        "tags": "Logistic Regression,Hyperparameters,Precision"
     },
     {
         "vid": "84gqSbLcBFE",
-        "tags": ""
+        "tags": "Reinforcement Learning,Tensorflow"
     },
     {
-        "vid": "0Lt9w-BxKFQ",
-        "tags": ""
+        "vid": "5tvmMX8r_OM",
+        "tags": "Loss Functions,Activation Function,Regularization"
     },
     {
-        "vid": "JzfR8pOtxZc",
-        "tags": ""
+        "vid": "iEt2UbqAhls",
+        "tags": "Cross Validation,Loss Functions,Generalization"
     },
     {
-        "vid": "85dtiMz9tSo",
-        "tags": ""
+        "vid": "IlTGoELs-Zg",
+        "tags": "Linear Regression"
     },
     {
-        "vid": "3ZWuPVWq7p4",
-        "tags": ""
+        "vid": "uZeDTwWcnuY",
+        "tags": "SVM"
     },
     {
-        "vid": "RlQuVL6-qe8",
-        "tags": ""
+        "vid": "njKP3FqW3Sk",
+        "tags": "Loss Functions,Activation Function,Regularization"
     },
     {
-        "vid": "IGQf3hxlWKI",
-        "tags": ""
-    },
-    {
-        "vid": "WMtrJ_R0Ypw",
-        "tags": ""
-    },
-    {
-        "vid": "RJp3Vf4XXQI",
-        "tags": ""
-    },
-    {
-        "vid": "2UsdwrU1VNQ",
-        "tags": ""
-    },
-    {
-        "vid": "QBgISII4vos",
-        "tags": ""
-    },
-    {
-        "vid": "9Z78MoHw-Tw",
-        "tags": ""
-    },
-    {
-        "vid": "rz3_FDVt9eg",
-        "tags": ""
-    },
-    {
-        "vid": "6psBul7K2gw",
-        "tags": ""
-    },
-    {
-        "vid": "0h05dl6nUlk",
-        "tags": ""
-    },
-    {
-        "vid": "Y3QzLIBp64M",
-        "tags": ""
-    },
-    {
-        "vid": "g08qBcdk3Ss",
-        "tags": ""
-    },
-    {
-        "vid": "9oYosh-AoX0",
-        "tags": ""
-    },
-    {
-        "vid": "fyAZszlPphs",
-        "tags": ""
-    },
-    {
-        "vid": "ovPheIbY7U8",
-        "tags": ""
-    },
-    {
-        "vid": "EI2QisCvEM4",
-        "tags": ""
-    },
-    {
-        "vid": "LHsPJ2bQX1U",
-        "tags": ""
-    },
-    {
-        "vid": "yh5ABTeNUpE",
-        "tags": ""
-    },
-    {
-        "vid": "8iGzBMboA0I",
-        "tags": ""
-    },
-    {
-        "vid": "y6X0bf3beVc",
-        "tags": ""
-    },
-    {
-        "vid": "37Yt41ouaNM",
-        "tags": ""
-    },
-    {
-        "vid": "AJzvuvVrEVM",
-        "tags": ""
-    },
-    {
-        "vid": "0sKPkJME2Jw",
-        "tags": ""
-    },
-    {
-        "vid": "ENPBTl0uNOE",
-        "tags": ""
-    },
-    {
-        "vid": "w0MqLCHhR_c",
-        "tags": ""
-    },
-    {
-        "vid": "0wUF_Ov8b0A",
-        "tags": ""
-    },
-    {
-        "vid": "bL4b1sGnILU",
-        "tags": ""
-    },
-    {
-        "vid": "wM6CWzv4VkQ",
-        "tags": ""
-    },
-    {
-        "vid": "YWzFxRZPEyU",
-        "tags": ""
-    },
-    {
-        "vid": "AVPf8TjHShQ",
-        "tags": ""
-    },
-    {
-        "vid": "iUnO4MLAGDU",
-        "tags": ""
-    },
-    {
-        "vid": "VAWjhAakw4s",
-        "tags": ""
-    },
-    {
-        "vid": "I10q6fjPxJ0",
-        "tags": ""
-    },
-    {
-        "vid": "dB-JHhEJvQA",
-        "tags": ""
-    },
-    {
-        "vid": "wcFdmQSX6hM",
-        "tags": ""
-    },
-    {
-        "vid": "g_GjvqgvJ0M",
-        "tags": ""
-    },
-    {
-        "vid": "YB64VoGQsK8",
-        "tags": ""
-    },
-    {
-        "vid": "-uyXE7dY5H0",
-        "tags": ""
-    },
-    {
-        "vid": "7665INW4I5g",
-        "tags": ""
-    },
-    {
-        "vid": "zUqa6KcwRhs",
-        "tags": ""
-    },
-    {
-        "vid": "5CWwwtEM2TA",
-        "tags": ""
-    },
-    {
-        "vid": "78RUW9kuDe4",
-        "tags": ""
-    },
-    {
-        "vid": "VPZD_aij8H0",
-        "tags": ""
-    },
-    {
-        "vid": "Rsc5znwR5FA",
-        "tags": ""
-    },
-    {
-        "vid": "tVQZvJwi-ec",
-        "tags": ""
-    },
-    {
-        "vid": "xLpl4nSo3RA",
-        "tags": ""
-    },
-    {
-        "vid": "X0HXnHKPXSo",
-        "tags": ""
-    },
-    {
-        "vid": "SPj8ARqpFEU",
-        "tags": ""
-    },
-    {
-        "vid": "kwA3qM0rm7c",
-        "tags": ""
-    },
-    {
-        "vid": "DooxDIRAkPA",
-        "tags": ""
-    },
-    {
-        "vid": "r3q05c1PIRg",
-        "tags": ""
-    },
-    {
-        "vid": "n1ViNeWhC24",
-        "tags": ""
-    },
-    {
-        "vid": "Th_ckFbc6bI",
-        "tags": ""
-    },
-    {
-        "vid": "F1ka6a13S9I",
-        "tags": ""
-    },
-    {
-        "vid": "eyovmAtoUx0",
-        "tags": ""
-    },
-    {
-        "vid": "hvIptUuUCdU",
-        "tags": ""
-    },
-    {
-        "vid": "Zdh3p4EKLeQ",
-        "tags": ""
-    },
-    {
-        "vid": "f7NfO16l04U",
-        "tags": ""
-    },
-    {
-        "vid": "AggqBRdz6CQ",
-        "tags": ""
-    },
-    {
-        "vid": "jBslaEzFJCE",
-        "tags": ""
-    },
-    {
-        "vid": "nCPf8zDJ0d0",
-        "tags": ""
-    },
-    {
-        "vid": "jj6-0cvcNEA",
-        "tags": ""
-    },
-    {
-        "vid": "3u7MQz1EyPY",
-        "tags": ""
-    },
-    {
-        "vid": "8vOsOST-FPA",
-        "tags": ""
-    },
-    {
-        "vid": "RlIiVeig3hc",
-        "tags": ""
-    },
-    {
-        "vid": "e60ItwlZTKM",
-        "tags": ""
-    },
-    {
-        "vid": "9d5-Ti6onew",
-        "tags": ""
-    },
-    {
-        "vid": "-o3AxdVcUtQ",
-        "tags": ""
-    },
-    {
-        "vid": "VR52vSbHBAk",
-        "tags": ""
-    },
-    {
-        "vid": "vtuH4VRq1AU",
-        "tags": ""
-    },
-    {
-        "vid": "VJo2wLVMePQ",
-        "tags": ""
-    },
-    {
-        "vid": "fmK5YWWobH8",
-        "tags": ""
-    },
-    {
-        "vid": "73t6nJT2xbw",
-        "tags": ""
-    },
-    {
-        "vid": "zHcQPKP6NpM",
-        "tags": ""
-    },
-    {
-        "vid": "EBgUiuFXE3E",
-        "tags": ""
-    },
-    {
-        "vid": "-6RqxhNO2yY",
-        "tags": ""
-    },
-    {
-        "vid": "X3Wbfb4M33w",
-        "tags": ""
-    },
-    {
-        "vid": "O3qXimMGn28",
-        "tags": ""
-    },
-    {
-        "vid": "gUxBJU5n2Zs",
-        "tags": ""
-    },
-    {
-        "vid": "rHrItfNeuh0",
-        "tags": ""
-    },
-    {
-        "vid": "FTzZff0uq9U",
-        "tags": ""
-    },
-    {
-        "vid": "WtWxOhhZWX0",
-        "tags": ""
-    },
-    {
-        "vid": "l4a3e__QzoY",
-        "tags": ""
-    },
-    {
-        "vid": "N5i85v0ckzY",
-        "tags": ""
-    },
-    {
-        "vid": "ZJ9FXBxYPsA",
-        "tags": ""
-    },
-    {
-        "vid": "zFeP678054U",
-        "tags": ""
-    },
-    {
-        "vid": "wr9gUr-eWdA",
-        "tags": ""
-    },
-    {
-        "vid": "IcDV9ZjQ6qk",
-        "tags": ""
-    },
-    {
-        "vid": "QcZJBkL7rhk",
-        "tags": ""
-    },
-    {
-        "vid": "1NjPTh0Eoeg",
-        "tags": ""
-    },
-    {
-        "vid": "ZWjlDqy9YsQ",
-        "tags": ""
-    },
-    {
-        "vid": "F37gDOXQWWs",
-        "tags": ""
-    },
-    {
-        "vid": "ee-HYD6kKqM",
-        "tags": ""
-    },
-    {
-        "vid": "Ah9XWzsB2mo",
-        "tags": ""
-    },
-    {
-        "vid": "4-4pKPv9lJ4",
-        "tags": ""
-    },
-    {
-        "vid": "ous4EtqOnaQ",
-        "tags": ""
-    },
-    {
-        "vid": "nJAmN6gWdK8",
-        "tags": ""
-    },
-    {
-        "vid": "0xHf-SJ9Z9U",
-        "tags": ""
-    },
-    {
-        "vid": "-ETQ97mXXF0",
-        "tags": ""
-    },
-    {
-        "vid": "n7npKX5zIWI",
-        "tags": ""
-    },
-    {
-        "vid": "_3eaVy8c-xk",
-        "tags": ""
-    },
-    {
-        "vid": "dafuAz_CV7Q",
-        "tags": ""
-    },
-    {
-        "vid": "JMUxmLyrhSk",
-        "tags": ""
-    },
-    {
-        "vid": "9wXc0stU-RA",
-        "tags": ""
-    },
-    {
-        "vid": "ix6Wj5tntp8",
-        "tags": ""
-    },
-    {
-        "vid": "9BIYmw5wnBI",
-        "tags": ""
+        "vid": "gajUDdlBX3w",
+        "tags": "Overfitting,Image Classification"
     },
     {
         "vid": "3uxOyk-SczU",
         "tags": ""
     },
     {
-        "vid": "ioXKxulmwVQ",
-        "tags": ""
+        "vid": "zHcQPKP6NpM",
+        "tags": "Statistics,Categorical independence,Bivariate Data Analysis"
     },
     {
-        "vid": "YaKMeAlHgqQ",
-        "tags": ""
+        "vid": "xTpHD5WLuoA",
+        "tags": "Correlation,Linear Regression,Pearson Correlation"
     },
     {
-        "vid": "d12ra3b_M-0",
-        "tags": ""
+        "vid": "wVnFSJDVC4I",
+        "tags": "Linear Regression,K Means Clustering,Mean Squared Error"
     },
     {
-        "vid": "h9gpufJFF-0",
-        "tags": ""
+        "vid": "iIjtgrjgAug",
+        "tags": "Confusion Matrix,Recall,Precision"
     },
     {
-        "vid": "YKjazI85nPQ",
-        "tags": ""
+        "vid": "lpkSGTT8uMg",
+        "tags": "Bias,Bias Variance Tradeoff"
     },
     {
-        "vid": "5T7hDuh2l_k",
-        "tags": ""
-    },
-    {
-        "vid": "v5ijNXvlC5A",
-        "tags": ""
-    },
-    {
-        "vid": "39vJRxIPSxw",
-        "tags": ""
-    },
-    {
-        "vid": "GaXfqoLR_yI",
-        "tags": ""
-    },
-    {
-        "vid": "G5l6xi_D64Y",
-        "tags": ""
-    },
-    {
-        "vid": "f3ua_dDjTNU",
-        "tags": ""
-    },
-    {
-        "vid": "gx6oHqpRgpY",
-        "tags": ""
-    },
-    {
-        "vid": "6yCxbzDjBDc",
-        "tags": ""
-    },
-    {
-        "vid": "xlqHQKJ7X1k",
-        "tags": ""
-    },
-    {
-        "vid": "X6zz9Z2KDtU",
-        "tags": ""
-    },
-    {
-        "vid": "iEt2UbqAhls",
-        "tags": ""
-    },
-    {
-        "vid": "bVQUSndDllU",
-        "tags": ""
-    },
-    {
-        "vid": "3ecNC-So0r4",
-        "tags": ""
-    },
-    {
-        "vid": "9rp1pzYn3hY",
-        "tags": ""
-    },
-    {
-        "vid": "-3T0a-ojLt0",
-        "tags": ""
-    },
-    {
-        "vid": "7Jl-RwkzqQ4",
-        "tags": ""
-    },
-    {
-        "vid": "TPMlZxRRaBQ",
-        "tags": ""
-    },
-    {
-        "vid": "4Q0kUCvhmAk",
-        "tags": ""
-    },
-    {
-        "vid": "8Hg2UtQg6G4",
-        "tags": ""
-    },
-    {
-        "vid": "5nYqK-HaoKY",
-        "tags": ""
-    },
-    {
-        "vid": "Gol_qOgRqfA",
-        "tags": ""
-    },
-    {
-        "vid": "elojMnjn4kk",
-        "tags": ""
-    },
-    {
-        "vid": "M9Itm95JzL0",
-        "tags": ""
-    },
-    {
-        "vid": "eMOA1pPVUc4",
-        "tags": ""
-    },
-    {
-        "vid": "0oyCUWLL_fU",
-        "tags": ""
-    },
-    {
-        "vid": "V0Mzr_qO73I",
-        "tags": ""
-    },
-    {
-        "vid": "OPkgtQwckrg",
-        "tags": ""
-    },
-    {
-        "vid": "yjy90pdBLfo",
-        "tags": ""
-    },
-    {
-        "vid": "_QUEXsHfsA0",
-        "tags": ""
-    },
-    {
-        "vid": "bfmFfD2RIcg",
-        "tags": ""
-    },
-    {
-        "vid": "TTEEkMRZAC8",
-        "tags": ""
-    },
-    {
-        "vid": "7t-x7poo9uI",
-        "tags": ""
-    },
-    {
-        "vid": "1xw915rbyG4",
-        "tags": ""
-    },
-    {
-        "vid": "0gf5iLTbiQM",
-        "tags": ""
+        "vid": "yN7ypxC7838",
+        "tags": "Support Vector Classifier,Decision Trees,Dimensionality Reduction"
     },
     {
         "vid": "eYVl2ckF-nQ",
         "tags": ""
     },
     {
-        "vid": "ZYuPIch9TLQ",
+        "vid": "ttE0F7fghfk",
         "tags": ""
     },
     {
-        "vid": "Ra_yTQnhf_8",
-        "tags": ""
-    },
-    {
-        "vid": "1tUS4Ynhpx0",
-        "tags": ""
-    },
-    {
-        "vid": "DjuyBfflWto",
-        "tags": ""
-    },
-    {
-        "vid": "q2Ruz1dHnow",
-        "tags": ""
-    },
-    {
-        "vid": "j-35y1M9rRU",
-        "tags": ""
-    },
-    {
-        "vid": "HARGzJ8qFGQ",
-        "tags": ""
-    },
-    {
-        "vid": "NRCZJUviZN0",
-        "tags": ""
-    },
-    {
-        "vid": "_XPkAxm0Yx0",
-        "tags": ""
-    },
-    {
-        "vid": "f2m6Mon0VE8",
-        "tags": ""
-    },
-    {
-        "vid": "OggPkhXCX0U",
-        "tags": ""
-    },
-    {
-        "vid": "RzgFtJQnNtc",
-        "tags": ""
-    },
-    {
-        "vid": "C1lhuz6pZC0",
-        "tags": ""
-    },
-    {
-        "vid": "wl_D7EquncY",
-        "tags": ""
-    },
-    {
-        "vid": "_wOt50VnJw4",
-        "tags": ""
-    },
-    {
-        "vid": "B5emClQf_I4",
-        "tags": ""
-    },
-    {
-        "vid": "N2rZKLtKni0",
-        "tags": ""
-    },
-    {
-        "vid": "Se28XHI2_xE",
-        "tags": ""
-    },
-    {
-        "vid": "4L1aTvwFGBo",
-        "tags": ""
-    },
-    {
-        "vid": "07jQR_3hmbY",
-        "tags": ""
-    },
-    {
-        "vid": "dtuKSYpdcFc",
-        "tags": ""
-    },
-    {
-        "vid": "8zwILUzux6o",
-        "tags": ""
-    },
-    {
-        "vid": "1k37OcjH7BM",
-        "tags": ""
-    },
-    {
-        "vid": "65DJ0XRZLiQ",
-        "tags": ""
-    },
-    {
-        "vid": "a1jTclwkMBI",
-        "tags": ""
-    },
-    {
-        "vid": "ZZ4B0QUHuNc",
-        "tags": ""
-    },
-    {
-        "vid": "eT3JMZagMnE",
-        "tags": ""
-    },
-    {
-        "vid": "RJWo8p_-Dsk",
-        "tags": ""
-    },
-    {
-        "vid": "vLuwxDySiLk",
-        "tags": ""
-    },
-    {
-        "vid": "4UEpI6cs528",
-        "tags": ""
-    },
-    {
-        "vid": "84nDu0fydd4",
-        "tags": ""
-    },
-    {
-        "vid": "t4K6lney7Zw",
-        "tags": ""
-    },
-    {
-        "vid": "jhImgx8I8oI",
-        "tags": ""
-    },
-    {
-        "vid": "Gc9EzmfcSas",
-        "tags": ""
+        "vid": "IPkRVpXtbdY",
+        "tags": "Entropy"
     },
     {
-        "vid": "QvxJL9lfhPw",
-        "tags": ""
-    },
-    {
-        "vid": "nPJKFWMiIC8",
-        "tags": ""
-    },
-    {
-        "vid": "BOk1hlCPW0c",
-        "tags": ""
-    },
-    {
-        "vid": "_RPHiqF2bSs",
-        "tags": ""
-    },
-    {
-        "vid": "nKW8Ndu7Mjw",
-        "tags": ""
-    },
-    {
-        "vid": "yN7ypxC7838",
-        "tags": ""
-    },
-    {
-        "vid": "eg8DJYwdMyg",
-        "tags": ""
-    },
-    {
-        "vid": "Axu4tJl8gbM",
-        "tags": ""
-    },
-    {
-        "vid": "JJFT5kLBUjg",
-        "tags": ""
-    },
-    {
-        "vid": "fUpChfNN5Uo",
-        "tags": ""
-    },
-    {
-        "vid": "AxrKrlWmZ_A",
-        "tags": ""
-    },
-    {
-        "vid": "2VIJYxt511w",
-        "tags": ""
-    },
-    {
-        "vid": "7CH8Mb6OH3k",
-        "tags": ""
-    },
-    {
-        "vid": "FSPF8NCkXRg",
-        "tags": ""
-    },
-    {
-        "vid": "wryiEKQ0XhQ",
-        "tags": ""
-    },
-    {
-        "vid": "VP-MoGc32H8",
-        "tags": ""
-    },
-    {
-        "vid": "_tPhvt6f_qE",
-        "tags": ""
-    },
-    {
-        "vid": "ia9aXC5LmvQ",
-        "tags": ""
-    },
-    {
-        "vid": "_eAl7vuVu3U",
-        "tags": ""
-    },
-    {
-        "vid": "x6tnVOn4st4",
-        "tags": ""
-    },
-    {
-        "vid": "5u35GY24A0Q",
-        "tags": ""
-    },
-    {
-        "vid": "DG7YTlGnCEo",
-        "tags": ""
-    },
-    {
-        "vid": "TuIgtitqJho",
-        "tags": ""
-    },
-    {
-        "vid": "_DFIPvNXvJk",
-        "tags": ""
-    },
-    {
-        "vid": "Ki2iHgKxRBo",
-        "tags": ""
-    },
-    {
-        "vid": "i04Pfrb71vk",
-        "tags": ""
-    },
-    {
-        "vid": "CnP0QX0PL8E",
-        "tags": ""
-    },
-    {
-        "vid": "I7NrVwm3apg",
-        "tags": ""
-    },
-    {
-        "vid": "Lpr__X8zuE8",
-        "tags": ""
-    },
-    {
-        "vid": "0p0o5cmgLdE",
-        "tags": ""
-    },
-    {
-        "vid": "nl7kDPYD20A",
-        "tags": ""
-    },
-    {
-        "vid": "mQaAPoRGOcs",
-        "tags": ""
-    },
-    {
-        "vid": "sooj-_bXWgk",
-        "tags": ""
+        "vid": "mctizdBujk4",
+        "tags": "Recall,False Positives,Precision"
     }
 ]
