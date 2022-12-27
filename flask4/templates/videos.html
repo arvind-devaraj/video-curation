@@ -1,38 +1,23 @@
- 
+
 
 {% extends 'base.html' %}
 
-{% block body %} 
+{% block body %}
 
 
- <div class="container">
-  <div class="video-player">
-    <div class="video-player__playing">
-      <div class="embed-container">
-        <div id="player"></div>
-      </div>
-    </div>
-     
-</div> 
-   
- <ul class="accordion">
 
 
   {% for item in vid_list %}
-    <li class="accordion-item">
-    <h3 class="accordion-thumb">{{item}}</h3>
-    <p class="accordion-panel">
-        <div class="video-player__thumbs">
-      
+          <br>
+          <h3 class="accordion-thumb">{{item}}</h3>
+
           {% for val in vid_list[item] %}
 
-            <div data-video="{{val}}" class="video-thumb"><img src="https://img.youtube.com/vi/{{val}}/hqdefault.jpg"></div>
-            https://www.youtube.com/watch?v={{val}}
+          <!-- <div data-video="{{val}}" class="video-thumb"><img src="https://img.youtube.com/vi/{{val}}/hqdefault.jpg"></div> -->
+          <iframe src="https://www.youtube.com/embed/{{val}}" allowfullscreen></iframe>
 
-        
           {% endfor %}
-        </div>
-    </p>
 {% endfor %}
 
 {% endblock %}
+~               
